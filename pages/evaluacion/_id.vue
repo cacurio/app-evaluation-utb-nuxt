@@ -101,7 +101,7 @@ import jsonData from '../../static/data.json'
 export default {
   asyncData({ params }) {
     const id = params.id
-    const filterData = jsonData.find((e) => e.id === id)
+    const filterData = jsonData.find((e) => e.sku === id)
     return { id, filterData }
   },
 }
