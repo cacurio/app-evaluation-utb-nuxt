@@ -2,21 +2,23 @@
   <div>
     <!-- <h1>Hola {{ $route.params.id }} /Hola {{ id }}</h1> -->
     <div>
-      <h1>{{ filterData.standardName }}</h1>
-      <h2>{{ filterData.assessment }}</h2>
-      <h2>{{ filterData.description }}</h2>
-      <v-banner two-line>
-        <v-avatar slot="icon" color="deep-purple accent-4" size="40">
-          <v-icon icon="mdi-lock" color="white"> mdi-lock </v-icon>
-        </v-avatar>
+      <v-row>
+        <h1>{{ filterData.standardName }}</h1>
 
+        <v-chip class="ma-2" color="secondary">
+          {{ filterData.assessment }}
+        </v-chip>
+      </v-row>
+
+      <v-row justify="left" align="left">
+        <v-chip :ripple="false"> Tipo {{ filterData.type }} </v-chip>
+        <v-chip :ripple="false"> Eje {{ filterData.axis }} </v-chip>
+        <v-chip :ripple="false"> {{ filterData.dimension }} </v-chip>
+      </v-row>
+      <v-row>
+        <h2>Concepto</h2>
         {{ filterData.concept }}
-
-        <template v-slot:actions>
-          <v-btn text color="deep-purple accent-4"> Action </v-btn>
-          <v-btn text color="deep-purple accent-4"> Action </v-btn>
-        </template>
-      </v-banner>
+      </v-row>
     </div>
     <br />
     <br />
@@ -31,7 +33,9 @@
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-chip class="ma-2"> {{ item.assessment }}</v-chip>
-          {{ item.description }}
+          <v-banner two-line>
+            {{ item.description }}
+          </v-banner>
 
           <v-row>
             <v-spacer></v-spacer>
