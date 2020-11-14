@@ -61,28 +61,8 @@
                 </v-card-text>
                 Cumplido
                 <v-chip class="ma-2" color="success" outlined>
-                  <!-- <v-icon left> mdi-server-plus </v-icon> -->
                   {{ d.fulfilled }}
                 </v-chip>
-                <!-- <span
-                  class="headline white--text pl-4 pt-4 d-inline-block"
-                  v-text="d.name"
-                ></span> -->
-                <!-- </v-img> -->
-
-                <!-- <v-card-actions class="white justify-center">
-                    <v-btn
-                      v-for="(social, j) in socials"
-                      :key="j"
-                      :color="social.color"
-                      class="white--text"
-                      fab
-                      icon
-                      small
-                    >
-                      <v-icon>{{ social.icon }}</v-icon>
-                    </v-btn>
-                  </v-card-actions> -->
               </v-card>
             </v-col>
           </v-row>
@@ -90,14 +70,6 @@
       </v-expansion-panel>
     </v-expansion-panels>
     <br />
-    <!-- <h2>Fuentes de información</h2>
-    <v-card class="mx-auto" max-width="900" tile>
-      <v-list-item v-for="item in filterData.InformationSources" :key="item.id">
-        <v-list-item-content>
-          <v-list-item-title>{{ item.description }}</v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-    </v-card> -->
   </div>
 </template>
 
