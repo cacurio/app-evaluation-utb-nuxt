@@ -9,7 +9,7 @@
           v-model="input"
           hide-details
           flat
-          :label="institutionName"
+          :label="title"
           solo
           @keydown.enter="comment"
         >
@@ -32,9 +32,9 @@
         </v-timeline-item>
       </v-slide-x-transition>
 
-      <v-timeline-item class="mb-6" hide-dot>
+      <!-- <v-timeline-item class="mb-6" hide-dot>
         <span>{{ title }}</span>
-      </v-timeline-item>
+      </v-timeline-item> -->
 
       <v-timeline-item
         v-for="item in standards"
@@ -82,7 +82,7 @@
 <script>
 export default {
   data: () => ({
-    title: 'EVALUACIÓN INSTITUCIONAL EXTERNA 2019',
+    title: 'EVALUACIÓN EXTERNA 2019',
     institutionName: 'UNIVERSIDAD TÉCNICA DE BABAHOYO',
     brandName: 'UTB',
     standards: [],

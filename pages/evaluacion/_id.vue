@@ -3,7 +3,7 @@
     <!-- <h1>Hola {{ $route.params.id }} /Hola {{ id }}</h1> -->
     <div>
       <v-row>
-        <h1>{{ filterData.standardName }}</h1>
+        <h1 class="pl-2">{{ filterData.standardName }}</h1>
 
         <v-chip class="ma-2" color="secondary">
           {{ filterData.assessment }}
@@ -11,18 +11,23 @@
       </v-row>
 
       <v-row justify="left" align="left">
-        <v-chip :ripple="false"> Tipo {{ filterData.type }} </v-chip>
-        <v-chip :ripple="false"> Eje {{ filterData.axis }} </v-chip>
-        <v-chip :ripple="false"> {{ filterData.dimension }} </v-chip>
+        <v-chip class="ma-2" :ripple="false">
+          Tipo {{ filterData.type }}
+        </v-chip>
+        <v-chip class="ma-2" :ripple="false">
+          Eje {{ filterData.axis }}
+        </v-chip>
+        <v-chip class="ma-2" :ripple="false">
+          {{ filterData.dimension }}
+        </v-chip>
       </v-row>
       <v-row>
-        <h2>Concepto</h2>
-        {{ filterData.concept }}
+        <h2 class="pa-2">Concepto</h2>
+        <p class="pl-2 pr-2">{{ filterData.concept }}</p>
       </v-row>
     </div>
     <br />
-    <br />
-    <h2>Elementos fundamentales</h2>
+    <h2 class="pb-2">Elementos fundamentales</h2>
     <v-expansion-panels>
       <v-expansion-panel
         v-for="(item, i) in filterData.fundamentalElement"
