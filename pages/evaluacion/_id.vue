@@ -8,6 +8,9 @@
         <v-chip class="ma-2" color="secondary">
           {{ filterData.assessment }}
         </v-chip>
+        <v-card-text>
+          <div>{{ filterData.description }}</div>
+        </v-card-text>
       </v-row>
 
       <v-row justify="left" align="left">
@@ -19,6 +22,9 @@
         </v-chip>
         <v-chip class="ma-2" :ripple="false">
           {{ filterData.dimension }}
+        </v-chip>
+        <v-chip class="ma-2" :ripple="false">
+          {{ filterData.component }}
         </v-chip>
       </v-row>
       <v-row>
@@ -52,16 +58,15 @@
               md="4"
             >
               <v-card>
+                <v-card-title> {{ d.name }} </v-card-title>
                 <v-card-text>
-                  <p class="display-1 text--primary">{{ d.name }}</p>
                   <!-- <p>adjective</p> -->
                   <div class="text--primary">
                     {{ d.description }}
                   </div>
                 </v-card-text>
-                Cumplido
-                <v-chip class="ma-2" color="success" outlined>
-                  {{ d.fulfilled }}
+                <v-chip class="ma-2" color="primary">
+                  {{ d.fulfilled }} cumplido
                 </v-chip>
               </v-card>
             </v-col>
@@ -70,6 +75,14 @@
       </v-expansion-panel>
     </v-expansion-panels>
     <br />
+    <v-card>
+      <v-toolbar color="teal darken-3" dark dense flat>
+        <v-toolbar-title class="body-2"> Observación</v-toolbar-title>
+      </v-toolbar>
+      <v-card-text>
+        {{ filterData.observation }}
+      </v-card-text>
+    </v-card>
   </div>
 </template>
 
