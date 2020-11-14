@@ -5,7 +5,7 @@
       <v-row>
         <h1 class="pl-2">{{ filterData.standardName }}</h1>
 
-        <v-chip class="ma-2" color="grey lighten-1" text-color="brown darken-4">
+        <v-chip class="ma-2" color="primary">
           {{ filterData.assessment }}
         </v-chip>
         <v-card-text>

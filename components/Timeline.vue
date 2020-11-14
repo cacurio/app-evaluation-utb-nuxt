@@ -59,7 +59,12 @@
             <br class="pa-md-5" />
             <p class="font-weight-light">
               Valoración
-              <v-chip class="white--text ml-0" color="orange" label outlined>
+              <v-chip
+                class="white--text ml-0"
+                color="red accent-3"
+                label
+                outlined
+              >
                 {{ item.assessment }}
               </v-chip>
             </p>
