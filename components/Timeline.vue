@@ -106,8 +106,6 @@ export default {
           standards.push(standardsData)
         })
         this.standards = standards
-        // eslint-disable-next-line no-console
-        console.log(this.standards)
       } catch (error) {
         // eslint-disable-next-line no-console
         console.log(error)
