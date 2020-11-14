@@ -5,7 +5,7 @@
       <v-row>
         <h1 class="pl-2">{{ filterData.standardName }}</h1>
 
-        <v-chip class="ma-2" color="secondary">
+        <v-chip class="ma-2" color="grey lighten-1" text-color="brown darken-4">
           {{ filterData.assessment }}
         </v-chip>
         <v-card-text>
@@ -29,6 +29,8 @@
       </v-row>
       <v-row>
         <h2 class="pa-2">Concepto</h2>
+      </v-row>
+      <v-row>
         <p class="pl-2 pr-2">{{ filterData.concept }}</p>
       </v-row>
     </div>
@@ -76,7 +78,7 @@
     </v-expansion-panels>
     <br />
     <v-card>
-      <v-toolbar color="teal darken-3" dark dense flat>
+      <v-toolbar color="" dark dense flat>
         <v-toolbar-title class="body-2"> Observación</v-toolbar-title>
       </v-toolbar>
       <v-card-text>
