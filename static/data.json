@@ -1,0 +1,2879 @@
+[
+    {
+      "standardName": "Estandar 1",
+      "id": "1",
+      "type": "Sustantivo",
+      "axis": "Docencia",
+      "dimension": "Dimensión Planificación",
+      "component": "Componente Profesorado",
+      "description": "Planificación de los procesos del profesorado",
+      "concept": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables, para laplanificación y gestión de la planta de profesores, en el marco de la normativa del sistema de educación superior",
+      "reference": "",
+      "observation": "RESPUESTA EF-1.2: La información cualitativa (entre estas las normativas) que fue analizada en el proceso de evaluación fue la cargada     por la Universidad Técnica de Babahoyo (UTB) en la base de datos preparada por el Consejo de Aseguramiento de la Calidad de la      Educación Superior (CACES) para este proceso de acreditación. Todas estas fuentes de información fueron revisadas por el Comité de Evaluación para emitir argumentaciones y valorar los respectivos Elementos Fundamentales (EF) y Estándares (E). En el caso del EF-1.2:        La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, enmarcados en la normativa del sistema de educación superior, para los procesos de titularización y promoción del profesorado, bajo la coordinación de instancias responsables; y específicamente el COMPONENTE: 1.2.3 Cuenta con instancias responsables de la coordinación de los procesos de titularización y promoción del profesorado; se revisó el Reglamento Interno de Carrera y Escalaron del Profesor e investigador presentado por la universidad, en el cual no se establece cual es la dependencia que se hará cargo del proceso de titularización; razón por la cual, se       mantiene la valoración de Incumplimiento del componente 1.2.3, y la valoración del EF-1.2 de Aproximación al cumplimiento. El estándar         1, con compensación se mantiene en Cumplimiento Parcial.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento insuficiente",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 1.1",
+          "id": "1.1",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, enmarcados en la normativa del sistema de educación superior, para los procesos de selección del profesorado[27], bajo la coordinación de instancias responsables",
+          "reference": "[27] LOES 2010 y 2018, Arts. 149 y 150. Reglamento de Carrera y Escalafón del Profesor e Investigador del Sistema de Educación Superior (RCE 2018), Arts. 5, 27-36; 54-55; 66.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 1.1.1",
+              "id": "1.1.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para los procesos de selección del profesorado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 1.1.2",
+              "id": "1.1.2",
+              "description": "La normativa está enmarcada en la normativa del sistema de educación superior.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 1.1.3",
+              "id": "1.1.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de selección del profesorado.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 1.2",
+          "id": "1.2",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, enmarcados en la normativa del sistema de educación superior, para los procesos de titularización[28] y promoción[29] del profesorado, bajo la coordinación de instancias responsables.",
+          "reference": "[28] LOES 2010 y 2018, Art. 152. RCE 2018 Arts. 30-33; 44-52. [29] RCE 2018 Arts. 56-60; 62 a; 69-73; 78.",
+          "assessment": "Aproximación al Cumplimiento",
+          "components": [
+            {
+              "name": "Componente 1.2.1",
+              "id": "1.2.1",
+              "description": "Cuenta con una normativa y/o procedimientos, aprobados y vigentes, para los procesos de titularización y promoción del profesorado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 1.2.2",
+              "id": "1.2.2",
+              "description": "La normativa está enmarcada en la normativa del sistema de educación superior.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 1.2.3",
+              "id": "1.2.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de titularización y promoción del profesorado.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 1.3",
+          "id": "1.3",
+          "description": "La institución cuenta con un plan de formación académica de posgrado del profesorado[30], acorde con su oferta académica y perspectivas de desarrollo, bajo la coordinación de instancias responsables.",
+          "reference": "[30] LOES, 2010-2018, Arts. 156-158. RCE 2018, Arts. 90 y 92.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 1.3.1",
+              "id": "1.3.1",
+              "description": "Cuenta con un plan de formación académica de posgrado del profesorado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 1.3.2",
+              "id": "1.3.2",
+              "description": "El plan de formación está acorde con su oferta y perspectivas de desarrollo.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 1.3.3",
+              "id": "1.3.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de formación académica de posgrado del profesorado.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 1.4",
+          "id": "1.4",
+          "description": "La institución cuenta con un plan de capacitación del profesorado31 acorde con su oferta académica, investigación, pedagogía y didáctica, tecnologías de la información, y otras materias requeridas, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 1.4.1",
+              "id": "1.4.1",
+              "description": "Cuenta con un plan de capacitación del profesorado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 1.4.2",
+              "id": "1.4.2",
+              "description": "El plan de capacitación está acorde con su oferta académica, investigación, pedagogía y didáctica, tecnologías de la información, y otras materias requeridas.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 1.4.3",
+              "id": "1.4.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de capacitación del profesorado.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 1.5",
+          "id": "1.5",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, enmarcados en la normativa del sistema de educación superior, para la evaluación integral del desempeño del personal académico, bajo la coordinación de instancias responsables[32].",
+          "reference": "[32] LOES, 2010-2018, Arts. 151 y 155. RCE 2018, Arts. 84-89.",
+          "assessment": "Cumplimiento Satisfactorio",
+          "components": [
+            {
+              "name": "Componente 1.5.1",
+              "id": "1.5.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la evaluación integral del desempeño del personal académico.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 1.5.2",
+              "id": "1.5.2",
+              "description": "La normativa está enmarcada en la normativa del sistema de educación superior.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 1.5.3",
+              "id": "1.5.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de evaluación integral del desempeño del personal académico.",
+              "fulfilled": "Si"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Estatuto."
+        },
+        {
+          "id": "2.",
+          "description": "Planificación Estratégica de Desarrollo Institucional"
+        },
+        {
+          "id": "3.",
+          "description": "Planificación Operativa Anual"
+        },
+        {
+          "id": "4.",
+          "description": "Documentos de normativa y/o procedimientos vigentes para la selección del profesorado."
+        },
+        {
+          "id": "5.",
+          "description": "Normativa interna de carrera y escalafón de profesores."
+        },
+        {
+          "id": "6.",
+          "description": "Plan de formación académica de posgrado del profesorado."
+        },
+        {
+          "id": "7.",
+          "description": "Plan de capacitación del profesorado."
+        },
+        {
+          "id": "8.",
+          "description": "Normativa interna para la evaluación integral del desempeño del profesorado e instrumentos/formularios de evaluación."
+        },
+        {
+          "id": "9.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 2",
+      "id": 2,
+      "type": "Sustantivo",
+      "axis": "Docencia",
+      "dimension": "Dimensión Ejecución",
+      "component": "",
+      "description": "Ejecución de procesos del profesorado",
+      "concept": "La institución ejecuta los procesos de selección, distribución de actividades, titularización, promoción, formación de posgrado, capacitación y evaluación integral del desempeño del profesorado, para el desarrollo sostenible de las funciones sustantivas, conforme con la normativa del sistema de educación superior.",
+      "reference": "",
+      "observation": "RESPUESTA EF-2.1: Es necesario indicar que las fuentes de información analizadas por el Comité de Evaluación del Comité fueron las cargadas por la Universidad Técnica de Babahoyo (UTB) en la base de datos preparada por el Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES) para este proceso de acreditación; en lo que respecta a estándares cuantitativos fue considera por los técnicos del CACES la información del Sistema Integrado de Información de Educación Superior (SIESS).En el caso del Elemento Fundamental EF-2.1. La institución selecciona a su profesorado en función del perfil requerido, en coherencia con su  oferta  académica,  tomando  en  cuenta  su  experiencia  y  formación  enmarcada  en  la  normativa  del  sistema de educación superior.; y específicamente el COMPONENTE: 2.1.2 La selección del  profesorado  es  coherente  con  su oferta académica; se la valoró como incumplimiento debido a que con las fuentes de información de la universidad (Muestreo de documentos de selección interna) no se pudo establecer si cumplen con el perfil requerido, ya que no se incluye la pertinencia de los docentes a ser contratados por las unidades académicas, ni las asignaturas para las cuales se les selecciona, ni la carrera para la cual está postulando el profesor.En el caso mencionado del CANU, tiene relación con el COMPONENTE: 2.1.1 Selecciona a su profesorado en función del perfil requerido, de su experiencia y formación, al cual se lo valora como cumplimiento; pero es necesario indicar que la selección se refiere a todos los docentes no titulares de la universidad.Con base a los señalado se mantiene la valoración de Incumplimiento del componente 2.1.2, y del EF-2.1 de Cumplimiento Insuficiente, El estándar 2, con compensación se mantiene en Cumplimiento Parcial. RESPUESTA EF-2.2:En el caso del Elemento Fundamental EF-2.3. La institución  ejecuta  procesos  de  titularización  y  promoción  del  profesorado  conforme con  la  normativa;  y  específicamente  el  COMPONENTE: 2.3.2 Ejecuta  procesos  de  promoción  de  su  profesorado conforme con la normativa; se la valoró como incumplimiento debido a que la fuente de información de la universidad solo fue la resolución CU-S0001-RES-008-UTB-2018 y no los informes de los procesos; pero es cierto, que estos deben reposar en las dependencias universitarias pertinentes legalmente (dirección de talento humano y Secretaría general de la Institución), y que los mismos deben ser el sustento legal válido para la aprobación del H. Consejo Universitario de la UTB; razón por la cual se ha procedido a revisar aleatoriamente cinco informes y de cuya revisión se establece el cumplimiento de la normativa en la promoción de docentes titulares. Con base a los señalado se cambia la valoración a Cumplimiento del componente 2.3.2, y del EF-2.1 de Cumplimiento Insuficiente a Cumplimiento Parcial. El estándar 2, con compensación se mantiene en Cumplimiento Parcial.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento insuficiente",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 2.1",
+          "id": "2.1",
+          "description": "La institución selecciona a su profesorado en función del perfil requerido, en coherencia con su oferta académica, tomando en cuenta su experiencia y formación enmarcada en la normativa del sistema de educación superior [33].",
+          "reference": "[33] LOES 2010 y 2018, Arts. 149 y 150. RCE 2018, Arts. 5, 27-36; 54-55; 66.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 2.1.1",
+              "id": "2.1.1",
+              "description": "selecciona a su profesorado en funcion de perfil requerido, de su esperiencia y formacion",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 2.1.2",
+              "id": "2.1.2",
+              "description": "La selección del profesorado es coherente con su oferta académica.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 2.1.3",
+              "id": "2.1.3",
+              "description": "La selección está enmarcada en la normativa de educación superior",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 2.2",
+          "id": "2.2",
+          "description": "La institución distribuye las actividades del profesorado en coherencia con su oferta académica, actividades de investigación, gestión académica y vinculación con la sociedad, conforme con la normativa del sistema de educación superior.[34]",
+          "reference": "[34] RCE 2018, Arts. 11 y 12.",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 2.2.1",
+              "id": "2.2.1",
+              "description": "La distribución de actividades del profesorado es coherente con su oferta académica, actividades de investigación, gestión académica y vinculación con la sociedad",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 2.2.2",
+              "id": "2.2.2",
+              "description": "La distribución de actividades del profesorado está enmarcada en la normativa del sistema de educación superior.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 2.3",
+          "id": "2.3",
+          "description": "La institución ejecuta procesos de titularización [35] y promoción[36] del profesorado conforme con la normativa.",
+          "reference": "[35][36] RCE 2018, Arts. 56-60; 62 a; 69-73; 78.",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 2.3.1",
+              "id": "2.3.1",
+              "description": "Ejecuta procesos de titularización de su profesorado conforme con la normativa",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 2.3.2",
+              "id": "2.3.2",
+              "description": "Ejecuta procesos de promoción de su profesorado conforme con la normativa.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 2.4",
+          "id": "2.4",
+          "description": "La institución ejecuta sus planes de formación académica de posgrado y de capacitación del profesorado, y otras capacitaciones requeridas, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 2.4.1",
+              "id": "2.4.1",
+              "description": "Ejecuta el plan de formación de posgrado del profesorado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 2.4.2",
+              "id": "2.4.2",
+              "description": "Ejecuta el plan de capacitación del profesorado, y otras capacitaciones requeridas.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 2.5",
+          "id": "2.5",
+          "description": "La institución ejecuta los procesos de evaluación integral del desempeño del profesorado, que abarca su accionar profesional y ético en la realización de las funciones sustantivas y gestión académica, según el caso, y sus resultados son utilizados para la toma de decisiones relativas al mejoramiento continuo del profesorado",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 2.5.1",
+              "id": "2.5.1",
+              "description": "Ejecuta procesos de evaluación integral del desempeño del profesorado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 2.5.2",
+              "id": "2.5.2",
+              "description": "Los procesos de evaluación integral del desempeño del profesorado abarcan su accionar profesional y ético en la realización de las funciones sustantivas y gestión académica.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 2.5.3",
+              "id": "2.5.3",
+              "description": "Los resultados son utilizados para la toma de decisiones relativas al mejoramiento continuo del profesorado",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Documentos que evidencien el proceso seguido para la selección de los distintos tipos de profesorado."
+        },
+        {
+          "id": "2.",
+          "description": "Distributivo de actividades del profesorado"
+        },
+        {
+          "id": "3.",
+          "description": "Documentos que evidencien el proceso seguido para la titularización del profesorado (relativos a concursos de méritos y oposición)."
+        },
+        {
+          "id": "4.",
+          "description": "Documentos que evidencien el proceso seguido para la promoción del profesorado."
+        },
+        {
+          "id": "5.",
+          "description": "SIIES: Lista de profesores que están realizando estudios de posgrado durante el periodo de evaluación, según nombre del posgrado, institución en la que lo realiza, unidad académica a la que pertenece el profesor/a."
+        },
+        {
+          "id": "6.",
+          "description": "Fechas de inicio y finalización de los programas de posgrado que están realizandlos profesores y tipo de apoyo brindado por la IES"
+        },
+        {
+          "id": "7.",
+          "description": "SIIES: Profesores/as en proceso de formación doctoral (PFPhD)"
+        },
+        {
+          "id": "8.",
+          "description": "Lista de profesores (nombres y cédulas) que han aprobado cursos durante el periodo de evaluación, según nombre del curso, duración en horas, fecha de inicio y final, institución en la que lo realizaron, carrera a la que pertenece el profesor/a."
+        },
+        {
+          "id": "9.",
+          "description": "Lista de profesores (nombres y cédulas) que han asistido a eventos científicos o artísticos durante el periodo de evaluación, según nombre del evento, institución(es) convocante(es), fecha de realización, carrera a la que pertenece el profesor/a."
+        },
+        {
+          "id": "10.",
+          "description": "Informes de evaluación del desempeño integral de los profesores correspondientes al periodo de evaluación que incluyan decisiones adoptadas para la mejora y/o solución de problemas encontrados."
+        },
+        {
+          "id": "11.",
+          "description": "Instrumento(s) utilizado(s) por la institución para la evaluación de desempeño del profesorado."
+        },
+        {
+          "id": "12.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 5",
+      "id": 5,
+      "type": "Sustantivo",
+      "axis": "Docencia",
+      "dimension": "Dimensión Planificación",
+      "component": "Componente estudiantado",
+      "description": "Planificación de los procesos del estudiantado",
+      "concept": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables para la planificación y gestión de los procesos de admisión y/o nivelación, tutoría académica, titulación y participación estudiantil, que garantizan su formación académica en el marco del modelo educativo y de la normativa del sistema de educación superior.",
+      "reference": "",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 5.1",
+          "id": "5.1",
+          "description": "La institución cuenta con normativa y/o  procedimientos, aprobados  y vigentes, para  los procesos de admisión y/o nivelación del estudiantado, acorde con la normativa del sistema de educación superior, en el marco del principio de igualdad de oportunidades41, bajo la coordinación de instancias responsables.[41]",
+          "reference": "[41] LOES 2010, Art. 71-74.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 5.1.1",
+              "id": "5.1.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para los procesos de admisión y/o nivelación del estudiantado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.1.2",
+              "id": "5.1.2",
+              "description": "La normativa esta enmarcada en la normativa del sistema de educación superior y en el principio de igualdad de oportunidades.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.1.3",
+              "id": "5.1.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de admisión y/o nivelación del estudiantado.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 5.2",
+          "id": "5.2",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para el seguimiento del desempeño estudiantil y de la tutoría académica del estudiantado, acorde con su modelo educativo y la modalidad de estudios, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 5.2.1",
+              "id": "1.2.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para el seguimiento del desempeño estudiantil.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.2.2",
+              "id": "5.2.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la tutoría académica del estudiantado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.2.3",
+              "id": "5.2.3",
+              "description": "La normativa está acorde con el modelo educativo y con la modalidad de estudios de la institución.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.2.4",
+              "id": "5.2.4",
+              "description": "Cuenta con instancias responsables de la coordinación de los procesos de seguimiento del desempeño estudiantil y de la tutoría académica del estudiantado",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 5.3",
+          "id": "5.3",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para la tutoría de los procesos de titulación del estudiantado, que garantiza el cumplimiento de normas éticas[42], bajo la coordinación de instancias responsables.",
+          "reference": "[42] RRA, CES 2017, Art. 68-69.",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 5.3.1",
+              "id": "5.3.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la tutoría de los procesos de titulación de los estudiantes.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 5.3.2",
+              "id": "5.3.2",
+              "description": "La normativa garantiza el cumplimiento de normas éticas.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.3.3",
+              "id": "5.3.3",
+              "description": "Cuenta con instancias responsables de la coordinación de la tutoría de los procesos de titulación de los estudiantes.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 5.4",
+          "id": "5.4",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para la integración del estudiantado en las actividades académicas de la docencia, investigación y vinculación con la sociedad.",
+          "reference": "[43] LOES 2010, Art. 5, e; arts. 45-47.",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 5.4.1",
+              "id": "5.4.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la integración del estudiantado en las actividades académicas de la docencia.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 5.4.2",
+              "id": "5.4.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la integración del estudiantado en las actividades académicas de investigación",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 5.4.3",
+              "id": "5.4.3",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la integración del estudiantado en las actividades académicas de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 5.5",
+          "id": "5.5",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para promover la participación estudiantil en espacios de cogobierno universitario[43], acorde con la normativa del sistema de educación superior.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 5.5.1",
+              "id": "5.5.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para promover la participación estudiantil en espacios de cogobierno universitario",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 5.5.2",
+              "id": "5.5.2",
+              "description": "La participación estudiantil en espacios de cogobierno universitario está acorde con la normativa del sistema de educación superior",
+              "fulfilled": "Si"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Estatuto."
+        },
+        {
+          "id": "2.",
+          "description": "Modelo Educativo."
+        },
+        {
+          "id": "3.",
+          "description": "Documento(s) de normativa y/o procedimientos para los procesos de admisión y/o nivelación."
+        },
+        {
+          "id": "4.",
+          "description": "Documento(s) de normativa, procedimientos e instancias responsables para el seguimiento del desempeño estudiantil."
+        },
+        {
+          "id": "5.",
+          "description": "Documento(s) de normativa y/o procedimientos para la realización y monitoreo de las tutorías académicas."
+        },
+        {
+          "id": "6.",
+          "description": "Documento(s) de normativa y/o procedimientos para la tutoría de los estudiantes en proceso de titulac."
+        },
+        {
+          "id": "7.",
+          "description": "Documento(s) de normativa y/o procedimientos para la integración del estudiantado en las actividades académicas de las funciones sustantivas."
+        },
+        {
+          "id": "8.",
+          "description": "Políticas y/o procedimientos para la representación y participación estudiantil en el cogobierno universitario"
+        },
+        {
+          "id": "9.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 6",
+      "id": "6",
+      "type": "Sustantivo",
+      "axis": "Docencia",
+      "dimension": "Dimensión Ejecución",
+      "component": "",
+      "description": "Ejecución de los procesos del estudiantado",
+      "concept": "La institución ejecuta los procesos de admisión y/o nivelación, tutoría académica, titulación, y participación estudiantil garantizando el proceso de formación, acorde con su modelo educativo y la normativa del sistema de educación superior.",
+      "reference": "",
+      "observation": "RESPUESTA EF 6.1 En el caso del Elemento  Fundamental  6.1.  La  institución  ejecuta  los  procesos  de  admisión  y/o  nivelación  de  los  estudiantes  acorde  con  el  análisis  de  la  demanda,  la  capacidad  de  infraestructura  y  el  profesorado,  enmarcada  en  la  normativa,  observando el principio de igualdad de oportunidades y las particularidades de la modalidad de estudio; y específicamente el COMPONENTE: 6.1.2 Los procesos de admisión y/o nivelación se ejecutan acorde con el análisis de la demanda, la capacidad           de infraestructura y el profesorado; es necesario recalcar que la unidad encargada de la admisión a la Universidad Técnica de Babahoyo denominada CANU (Centro de Admisión y Nivelación Universitaria (CANU) no tenía su normativa basada el Reglamento del Sistema Nacional de Nivelación y Admisión (2012) y sus modificaciones, como ejemplo en el reglamento del 2015 en el artículo 3.- menciona que la: Presentación de la oferta de cupos de carrera.- La oferta de cupos por carrera deberá contemplar: código, sede, modalidad, jornada, ciclo y tipo de financiamiento, consistirá en el número de estudiantes que cada institución de educación superior pública está en condiciones de admitir en cada una de las carreras para cada convocatoria académica. La institución de educación superior pública determinará el número mínimo de estudiantes por paralelo para la apertura de los mismos en el periodo académico correspondiente. La institución presento un informe descriptivo de los procesos de admisión, asignación de cupos, oferta académica, y el proceso de nivelación, elaborado por el CANU denominado: Proceso de Admisión y Nivelación-SNNA, correspondiente al segundo semestre del año 2014 (no el correspondiente a los periodos en evaluación), y un documento similar y correspondiente al año 2018, no se pudo observar lo que le componente pide para evaluar como cumplimiento que es: el análisis de la demanda, la capacidad de infraestructura y el profesorado relacionado a la entrega de cupos para ingresar a la UTB. Finalmente es necesario señalar que todas las universidades públicas deben estar adscritas al sistema nacional de admisión a universidades; razón por la cual, la UTB debe cumplir con la entrega de cupos, aceptación y nivelación a estudiantes. En la visita in situ, se entrevistó al personal del CANU y se verificó que no cuentan con la normativa actualizada en la cual debería estar incluida la presentación de la oferta de cupos en base a la disponibilidad y estudios de demanda.Con base a los señalado se mantiene la valoración de Incumplimiento de componente 6.1.2, y del EF-6.1 con Cumplimiento Insuficiente. El estándar 6, se mantiene en Cumplimiento Parcial por compensación.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento insuficiente",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 6.1",
+          "id": "6.1",
+          "description": "La institución ejecuta los procesos de admisión y/o nivelación de los  estudiantes44  acorde con el análisis de la demanda, la capacidad de infraestructura y el profesorado, enmarcada en la normativa, observando el principio de igualdad de oportunidades[45] y las particularidades de la modalidad de estudio[46].",
+          "reference": "[45] LOES 2010, Arts. 71-74. Reglamento del Sistema Nacional de Nivelación y Admisión SNNA, SENESCYT, 2018, Arts. 3, 7, 22, 23, 25, 30, 52 [46] Reglamento para Carreras y Programas Académicos en Modalidades en Línea, a Distancia y Semipresencial o de Convergencia de Medios. CES, 2018: Arts. 43-4",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 6.1.1",
+              "id": "6.1.1",
+              "description": "Ejecuta los procesos de admisión y/o nivelación de los estudiantes conforme a la normativa.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 6.1.2",
+              "id": "6.1.2",
+              "description": "Los procesos de admisión y/o nivelación se ejecutan acorde con el análisis de la demanda, la capacidad de infraestructura y el profesorado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 6.1.3",
+              "id": "6.1.3",
+              "description": "Los procesos de admisión y/o nivelación se ejecutan observando el principio de igualdad de oportunidades y las particularidades de la modalidad de estudio.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 6.2",
+          "id": "6.2",
+          "description": "La institución realiza el seguimiento del desempeño estudiantil, conforme con la normativa y sus resultados son utilizados en la toma de acciones para mejorar las tasas de permanencia estudiantil y de titulación.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 6.2.1",
+              "id": "6.2.1",
+              "description": "Realiza el seguimiento del desempeño estudiantil conforme a la normativa.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 6.2.2",
+              "id": "6.2.2",
+              "description": "Los resultados del seguimiento son utilizados en la toma de acciones para mejorar las tasas de permanencia estudiantil y de titulación.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 6.3",
+          "id": "6.3",
+          "description": "Los procesos de tutoría académica permanente y específica para titulación son ejecutados por el profesorado, que cuenta con asignación horaria, espacios y recursos requeridos, y la titulación del estudiantado se ejecuta con el cumplimiento de normas éticas.",
+          "reference": "",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 6.3.1",
+              "id": "6.3.1",
+              "description": "Los profesores ejecutan procesos de tutoría académica permanente y específica para titulación.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 6.3.2",
+              "id": "6.3.2",
+              "description": "Los procesos de tutoría académica cuentan con asignación horaria, espacios y recursos requeridos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 6.3.3",
+              "id": "6.3.3",
+              "description": "La titulación del estudiantado se ejecuta con el cumplimiento de normas éticas.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 6.4",
+          "id": "6.4",
+          "description": "La institución integra al estudiantado en actividades académicas de las funciones sustantivas, a través de ayudantías de cátedra, proyectos de investigación, de vinculación con la sociedad y otros mecanismos[47].",
+          "reference": "[47] Estos pueden ser la promoción de la participación estudiantil en concursos académicos, la publicación de las mejores tesis, la participación en eventos nacionales e internacionales, entre otros.",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 6.4.1",
+              "id": "6.4.1",
+              "description": "Integra al estudiantado en actividades académicas de las funciones sustantivas como ayudantías de cátedra.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 6.4.2",
+              "id": "6.4.2",
+              "description": "Integra al estudiantado en actividades académicas de las funciones sustantivas como proyectos de investigación.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 6.4.3",
+              "id": "6.4.3",
+              "description": "Integra al estudiantado en actividades académicas de las funciones sustantivas como proyectos de vinculación con la sociedad, y otros mecanismos.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 6.5",
+          "id": "6.5",
+          "description": "La institución promueve la presentación de propuestas de los representantes del estudiantado en el cogobierno, las cuales son tomadas en cuenta y contribuyen a la mejora de la calidad de la educación",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 6.5.1",
+              "id": "6.5.1",
+              "description": "Promueve la presentación de propuestas de los representantes del estudiantado en el cogobierno",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 6.5.2",
+              "id": "6.5.2",
+              "description": "Toma en cuenta las propuestas, las cuales contribuyen a la mejora de la calidad de la educación",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Documentos que evidencien la ejecución de los procesos de nivelación y/o admisión."
+        },
+        {
+          "id": "2.",
+          "description": "SIIES: Tasa de permanencia del estudiantado."
+        },
+        {
+          "id": "3.",
+          "description": "Informe de acciones desarrolladas para promover la permanencia del estudiantado, el mejoramiento del desempeño estudiantil y la titulación."
+        },
+        {
+          "id": "4.",
+          "description": "Distributivo de profesores que evidencie la carga horaria asignada a tutorías."
+        },
+        {
+          "id": "5.",
+          "description": "Informe consolidado de la(s) instancia(s) responsable(s) sobre la ejecución de las tutorías académicas permanentes."
+        },
+        {
+          "id": "6.",
+          "description": "Informe consolidado de la(s) instancia(s) responsable(s) sobre la ejecución de las tutorías específicas para la titulación, incluyendo mecanismos para detectar casos de plagio."
+        },
+        {
+          "id": "7.",
+          "description": "Listado de estudiantes que participaron como ayudantes de cátedra, en proyectos de investigación, de vinculación con la sociedad y otros espacios académicos (por carreras y por proyectos)."
+        },
+        {
+          "id": "8.",
+          "description": "Documentos que evidencien que las propuestas del estudiantado han sido consideradas en la toma de decisiones de los órganos de cogobierno."
+        },
+        {
+          "id": "9.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 8",
+      "id": "8",
+      "type": "Sustantivo",
+      "axis": "Investigación e Innovación",
+      "dimension": "Dimensión Planificación",
+      "component": "",
+      "description": "Planificación de los procesos de investigación",
+      "concept": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables, para el desarrollo de la investigación, así como para la selección, asignación de recursos, seguimiento, evaluación y publicación de resultados de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística, enmarcados en sus líneas de investigación, procurando la participación del estudiantado",
+      "reference": "",
+      "observation": "En el caso del Elemento Fundamental 8.3. La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables, para la asignación de recursos económicos y/o para la gestión de fondos externos para la investigación científica y/o tecnológica y/o de creación artística; y específicamente el COMPONENTE: 8.3.2 Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para la gestión de fondos externos para la investigación científica y/o tecnológica y/o de creación artística, se revisó el Reglamento de la Dirección de Investigación y Desarrollo (2010) vigente pero no actualizado a la normativa actual de la Ley Orgánica de       Educación  Superior  (LOES) 2010 y  sus reformas, y  el “Reglamento de  Proyectos de  Investigación  y  Desarrollo (2018), donde  no  se observó    las políticas o mecanismos para captar o gestionar recursos externos para la investigación científica.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 8.1",
+          "id": "8.1",
+          "description": "La institución planifica los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística, en coherencia con sus líneas de investigación, dominios académicos y las necesidades del entorno, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 8.1.1",
+              "id": "8.1.1",
+              "description": "Planifica los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.1.2",
+              "id": "8.1.2",
+              "description": "La planificación es coherente con sus líneas de investigación, dominios académicos y las necesidades del entorno.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.1.3",
+              "id": "8.1.3",
+              "description": "Cuenta con instancias responsables de la coordinación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 8.2",
+          "id": "8.2",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para la selección, seguimiento y evaluación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística, y para la publicación de sus resultados.",
+          "reference": "",
+          "assessment": "Aproximación al Cumplimiento",
+          "components": [
+            {
+              "name": "Componente 8.2.1",
+              "id": "8.2.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para la selección de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.2.2",
+              "id": "8.2.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para el seguimiento de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.2.3",
+              "id": "8.2.3",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para la evaluación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 8.2.4",
+              "id": "8.2.4",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para la evaluación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 8.3",
+          "id": "8.3",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables, para la asignación de recursos económicos y/o para la gestión de fondos externos para la investigación científica y/o tecnológica y/o de creación artística.",
+          "reference": "",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 8.3.1",
+              "id": "8.3.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la asignación de recursos económicos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.3.2",
+              "id": "8.3.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para la para la gestión de fondos externos para la investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 8.3.3",
+              "id": "8.3.3",
+              "description": "Cuenta con instancias responsables de la asignación de recursos económicos y/o para la gestión de fondos externos para la investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 8.4",
+          "id": "8.4",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, para el reconocimiento[54] al profesorado y al estudiantado por sus resultados de investigación científica y/o tecnológica y/o de creación artística",
+          "reference": "[54] LOES 2010, Arts.148,156,158.",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 8.4.1",
+              "id": "8.4.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para el reconocimiento al profesorado por sus resultados de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 8.4.2",
+              "id": "8.4.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para el reconocimiento al estudiantado por sus resultados de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 8.5",
+          "id": "8.5",
+          "description": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, e instancias responsables para garantizar la ética en las actividades de investigacióna[55] científica y/o tecnológica y/o de creación artística, en el comportamiento de sus investigadores, en el reconocimiento de la participación de los estudiantes, y en la devolución y difusión de sus resultados",
+          "reference": "[55] Código Orgánico de la Económica Social de los Conocimientos, Creatividad e innovación (COESCCI) 2016, Arts. 17, 67-69.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 8.5.1",
+              "id": "8.5.1",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para garantizar la ética en las actividades de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 8.5.2",
+              "id": "8.5.2",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para garantizar la ética en el comportamiento de sus investigadores y en el reconocimiento de la participación de los estudiantes.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 8.5.3",
+              "id": "8.5.3",
+              "description": "Cuenta con normativa y/o procedimientos, aprobados y vigentes, para garantizar la ética en la devolución y difusión de sus resultados.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 8.5.4",
+              "id": "8.5.4",
+              "description": "Cuenta con instancias responsables de garantizar la ética en las actividades de investigación científica y/o tecnológica y/o de creación artística",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Modelo educativo de la institución."
+        },
+        {
+          "id": "2.",
+          "description": "Plan estratégico de desarrollo institucional en que se incluya la planificación de investigación o plan específico de investigación."
+        },
+        {
+          "id": "3.",
+          "description": "Planificación Operativa Anual."
+        },
+        {
+          "id": "4.",
+          "description": "Documentos de aprobación de las líneas de investigación institucionales."
+        },
+        {
+          "id": "5.",
+          "description": "Normativa y/o procedimientos que rigen la selección, el seguimiento y evaluación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística."
+        },
+        {
+          "id": "6.",
+          "description": "Documentos de convocatorias para el financiamiento de programas y proyectos de investigación científica, tecnológica y/o de creación artística."
+        },
+        {
+          "id": "7.",
+          "description": "Normativa y/o procedimientos que rigen el desarrollo de la investigación: asignación de recursos económicos y gestión de fondos externos; y requisitos para la participación del estudiantado."
+        },
+        {
+          "id": "8.",
+          "description": "Normativa y/o procedimientos de publicaciones y de devolución y difusión de resultados de la investigación científica y/o tecnológica y/o de creación artística."
+        },
+        {
+          "id": "9.",
+          "description": "Normativa y/o procedimientos para la evaluación del desempeño del profesorado que participa en investigación y el reconocimiento de sus resultados de investigación, incluyendo al estudiantado de ser el caso"
+        },
+        {
+          "id": "10.",
+          "description": "Normativa y/o procedimientos que regulen el control ético de los proyectos de investigación en todas sus fases"
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 9",
+      "id": "9",
+      "type": "Sustantivo",
+      "axis": "Investigación e Innovación",
+      "dimension": "Dimensión Ejecución",
+      "component": "Componente Profesorado",
+      "description": "Ejecución de los procesos de investigación",
+      "concept": "La institución selecciona programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística mediante procedimientos de arbitraje preferentemente enmarcados en las líneas de investigación y/o dominios académicos, ejecuta los recursos provenientes de fondos internos y externos, da seguimiento y los evalúa, reconociendo los logros del profesorado y estudiantado, acorde con la normativa del sistema de educación superior, en el marco de principios éticos.",
+      "reference": "",
+      "observation": "RESPUESTA EF-9.2 En el caso del Elemento Fundamental 9.2. La institución, a través de instancias responsables, ejecuta los  recursos provenientes  de  fondos  internos  y/o  externos,  da  seguimiento  y  evalúa  los  programas  y/o  proyectos  de  investigación científica y/o tecnológica y/o de creación artística;  y  específicamente  el  COMPONENTE:  9.2.3  Evalúa  los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística, se revisó que la etapa final de los proyectos de investigación en la UTB se denomina como el Cierre de Proyectos, de esta fase se adjuntó dos informes de proyectos, que no son una EVALUACIÓN DE RESULTADOS, sino un informe final del proyecto, en el cual se presentan resultados en cuanto al cumplimento de los objetivos, presupuesto y productos logrados en la investigación; en el caso del proyecto “Inocuidad de los Procesos Productivos de las PYMES en la Industrialización del Cacao Provincia de los Ríos”, no se incluye PRODUCTOS / RESULTADOS, y pese a ello se pide su cierre; además, al igual que en el seguimiento, no se incluye la aceptación o aprobación del director del proyecto al informe final",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 9.1",
+          "id": "9.1",
+          "description": "La institución aplica procedimientos de arbitraje para la selección de programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística, que son conocidos por el profesorado.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 9.1.1",
+              "id": "9.1.1",
+              "description": "Aplica procedimientos de arbitraje para la selección de programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 9.1.2",
+              "id": "9.1.2",
+              "description": "Los procedimientos de arbitraje son conocidos por el profesorado.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 9.2",
+          "id": "9.2",
+          "description": ". La institución, a través de instancias responsables, ejecuta los recursos provenientes de fondos internos y/o externos, da seguimiento y evalúa los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+          "reference": "",
+          "assessment": "Aproximación al Cumplimiento",
+          "components": [
+            {
+              "name": "Componente 9.2.1",
+              "id": "9.2.1",
+              "description": "Ejecuta los recursos provenientes de fondos internos y/o externos, para los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 9.2.2",
+              "id": "9.2.2",
+              "description": "Da seguimiento a los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 9.2.3",
+              "id": "9.2.3",
+              "description": "Evalúa los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 9.3",
+          "id": "9.3",
+          "description": "El profesorado involucrado en los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística cuenta con la asignación de carga horaria y  las horas de participación del estudiantado se registran como parte de sus actividades académicas.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 9.3.1",
+              "id": "9.3.1",
+              "description": "El profesorado involucrado en los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística cuenta con la asignación de carga horaria.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 9.3.2",
+              "id": "9.3.2",
+              "description": "Las horas de participación del estudiantado se registran como parte de sus actividades académicas.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 9.4",
+          "id": "9.4",
+          "description": "La institución a través de instancias pertinentes da seguimiento a la implementación de procedimientos éticos en las actividades de investigación científica y/o tecnológica y/o de creación artística, en el comportamiento de sus investigadores, en el reconocimiento de la participación de los estudiantes y en la devolución y difusión de los resultados. Para la ejecución de los proyectos de investigación que involucran seres humanos, recursos biológicos y genéticos, cuentan con la aprobación de los organismos competentes[56].",
+          "reference": "[56] Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación (COESCCI, Arts. 68-69). Reglamento para la Aprobación y Seguimiento de los Comités de Ética de Investigación en Seres Humanos (CEISH) y de los Comités de Ética Asistenciales para la Salud (CEAS). MSP 2014: Arts. 4-18.",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 9.4.1",
+              "id": "9.4.1",
+              "description": "Da seguimiento a la implementación de procedimientos éticos en las actividades de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 9.4.2",
+              "id": "9.4.2",
+              "description": "Da seguimiento a la implementación de procedimientos éticos en el comportamiento de sus investigadores y en el reconocimiento de la participación de los estudiantes",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 9.4.3",
+              "id": "9.4.3",
+              "description": "Da seguimiento a la implementación de procedimientos éticos en la devolución y difusión de los resultados de la investigación.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 9.4.4",
+              "id": "9.4.4",
+              "description": "Para la ejecución de los proyectos de investigación que involucran seres humanos, recursos biológicos y genéticos, cuentan con la aprobación de los organismos competentes.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 9.5",
+          "id": "9.5",
+          "description": "La institución reconoce los logros de los actores de investigación, incluyendo la participación en los beneficios por la explotación o cesión de derechos patrimoniales sobre invenciones fruto de las investigaciones científicas y/o tecnológicas y/o decreación artística, conforme la normativa del sistema de educación superior.[57]",
+          "reference": "[57] LOES 2010, Art. 148. COESCCI, Art. 276.",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 9.5.1",
+              "id": "9.5.1",
+              "description": "Reconoce los logros de los actores de investigación.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 9.5.2",
+              "id": "9.5.2",
+              "description": "Incluye a los actores de investigación en la participación en los beneficios por la explotación o cesión de derechos patrimoniales sobre invenciones fruto de las investigaciones científicas y/o tecnológicas y/o de creación artística.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 9.5.3",
+              "id": "9.5.3",
+              "description": "Los reconocimientos están enmarcados en la normativa del sistema de educación superior.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Informes de arbitraje sobre proyectos presentados para obtener fondos de investigación en el periodo de evaluación58."
+        },
+        {
+          "id": "2.",
+          "description": "Documento(s) con información de los resultados de las postulaciones de proyectos de investigación científica y/o tecnológica y/o de creación artística, argumentados con los criterios de selección definidos y/o documentos que sustenten la asignación de recursos externos autogestionados."
+        },
+        {
+          "id": "3.",
+          "description": "Distributivo de carga horaria de profesores participantes en proyectos de investigación."
+        },
+        {
+          "id": "4.",
+          "description": "Informes de seguimiento y evaluación de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística en ejecución y finalizados durante el periodo de evaluación."
+        },
+        {
+          "id": "5.",
+          "description": "Documentos que evidencien la ejecución presupuestaria de los programas y/o proyectos de investigación científica, tecnológica y/o de creación artística."
+        },
+        {
+          "id": "6.",
+          "description": "Informes de evaluación de desempeño de profesores investigadores en relación con las actividades de investigación."
+        },
+        {
+          "id": "7.",
+          "description": "Listado de estudiantes por proyecto de investigación científica y/o tecnológica y/o de creación artística en el que participan, y el registro de sus horas."
+        },
+        {
+          "id": "8.",
+          "description": "Documento de aprobación de los proyectos que involucran seres humanos, recursos biológicos y genéticos, por parte de los organismos competentes."
+        },
+        {
+          "id": "9.",
+          "description": "Documentos que evidencien la devolución de los resultados a los involucrados y difusión al público objetivo."
+        },
+        {
+          "id": "10.",
+          "description": "Documentos que demuestren el reconocimiento a los logros del profesorado y del estudiantado que han participado en investigaciones científicas, tecnológicas y/o de creación artística."
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 10",
+      "id": "10",
+      "type": "Sustantivo",
+      "axis": "Investigación e Innovación",
+      "dimension": "Dimensión Resultados",
+      "component": "",
+      "description": "Producción académica y científica",
+      "concept": "La institución produce resultados de la investigación científica y/o tecnológica y/o de creación artística, plasmados en obras de relevancia[59] , valoradas por pares internos y externos a la institución, que cumplen con requisitos básicos de publicación, exposición y/o registro, y están articuladas a sus líneas de investigación y/o proyectos de creación artística.",
+      "reference": "[59] RCE, CES 2018, Arts. 79-80.",
+      "observation": "En el caso del Elemento Fundamental 10.4. La propiedad industrial y las obtenciones vegetales, producto de la investigación científica y tecnológica de la institución están registradas en las instancias pertinentes; y específicamente el COMPONENTE: 10.4. La propiedad industrial y las  obtenciones  vegetales,  producto  de  la  investigación  científica  y  tecnológica  de  la  institución están registradas en las instancias pertinentes, se revisó la única fuente documental adjunta que fue el registro del software: Sistema Académico de la Universidad Técnica de Babahoyo, pero dentro de los proyectos de investigación no se encontró ninguno relacionado con este producto; es decir, este software no es producto de una investigación aprobada, razón de la valoración de Incumplimiento.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento insuficiente",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 10.1",
+          "id": "10.1",
+          "description": "La institución produce obras literarias, libros y capítulos de libros, propiedad industrial, producción artística, diseño, prototipos y obtenciones vegetales, que son resultado de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 10.1.1",
+              "id": "10.1.1",
+              "description": "Produce obras literarias, libros y capítulos de libros, propiedad industrial, producción artística, diseño, prototipos y obtenciones vegetales.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 10.1.2",
+              "id": "10.1.2",
+              "description": "Las obras literarias, libros y capítulos de libros, propiedad industrial, producción artística, diseño, prototipos y obtenciones vegetales son resultado de los programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 10.2",
+          "id": "10.2",
+          "description": "Libros y capítulos de libros revisados por pares, publicados en los periodos académicos ordinarios 2017 y 2018",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente ",
+          "components": []
+        },
+        {
+          "name": "Elemento Fundamental 10.3",
+          "id": "10.3",
+          "description": "Las obras de creación artística generadas por la institución han sido expuestas pública- mente, contando con procesos de validación de pares.",
+          "reference": "",
+          "assessment": "No aplica",
+          "components": [
+            {
+              "name": "Componente 10.3.1",
+              "id": "10.3.1",
+              "description": "Las obras de creación artística generadas por la institución han sido expuestas públicamente.",
+              "fulfilled": "No aplica"
+            },
+            {
+              "name": "Componente 10.3.2",
+              "id": "10.3.2",
+              "description": "Las obras de creación artística cuentan con procesos de validación de pares.",
+              "fulfilled": "No aplica"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 10.4",
+          "id": "10.4",
+          "description": "La propiedad industrial y las obtenciones vegetales, producto de la investigación cien- tífica y tecnológica de la institución están registradas en las instancias pertinentes.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 10.4.1",
+              "id": "10.4.1",
+              "description": "La propiedad industrial producto de la investigación científica y tecnológica de la institución, está registrada en las instancias pertinentes.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 10.4.2",
+              "id": "10.4.2",
+              "description": "Las obtenciones vegetales producto de la investigación científica y tecnológica de la institución, está registrada en las instancias pertinentes.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 10.5",
+          "id": "10.5",
+          "description": "Los prototipos y diseños, incluidos software, producto de la investigación científica y tecnológica de la institución, han sido registrados en las instancias pertinentes.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 10.5.1",
+              "id": "10.5.1",
+              "description": "Los prototipos producto de la investigación científica y tecnológica de la institución, han sido registrados en las instancias pertinentes.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 10.5.2",
+              "id": "10.5.2",
+              "description": "Los diseños, incluidos software, producto de la investigación científica y tecnológica de la institución, han sido registrados en las instancias pertinentes.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "SIIES: Lista de programas y/o proyectos de investigación científica y/o tecnológica y/o de creación artística en ejecución o finalizados durante el periodo de evaluación, que han publicado, expuesto o registrado obras de relevancia valoradas."
+        },
+        {
+          "id": "2.",
+          "description": "SIIES: Portada, contraportada o la sección en la que conste el título del libro o capítulo del libro, nombre/s de autor/es y filiación, fecha de publicación y código ISBN, publicados en los periodos académicos ordinarios de 2017 y 2018."
+        },
+        {
+          "id": "3.",
+          "description": "Dos informes de revisión de pares por cada libro y capítulo de libro publicados enlos periodos académicos ordinarios de 2017 y 2018."
+        },
+        {
+          "id": "4.",
+          "description": "Títulos de la producción industrial y obtenciones vegetales, autores, número de registro del SENADI, en los periodos académicos ordinarios de 2017 y 2018."
+        },
+        {
+          "id": "5.",
+          "description": "Títulos de las obras artísticas, autores, formas de registro y documentos que evidencien la validación de su relevancia."
+        },
+        {
+          "id": "6.",
+          "description": "Documentos de registro de prototipos y diseños, incluidos software, que incluya autores, número de registro del SENADI, en los periodos académicos ordinarios de 2017 y 2018."
+        },
+        {
+          "id": "7.",
+          "description": "Entrevistas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 12",
+      "id": "12",
+      "type": "Sustantivo",
+      "axis": "Vinculación con la Sociedad",
+      "dimension": "Dimensión Planificación",
+      "component": "",
+      "description": "Planificación de los procesos de vinculación con la sociedad",
+      "concept": "La institución cuenta con normativa y/o procedimientos, aprobados y vigentes, y con instancias responsables, para planificar, dar seguimiento y evaluar los programas y/o proyectos de vinculación con la sociedad, coherentes con su modelo educativo, y que le permiten generar respuestas a los requerimientos y necesidades del entorno desde sus dominios académicos.",
+      "reference": "",
+      "observation": "RESPUESTA EF-12.3: Para evaluar el Elemento Fundamental 12.3. La institución planifica el seguimiento y evaluación de los programas y/o proyectos     de vinculación con la sociedad,  para  lo  que  define  una  metodología,  y  establece  mecanismos  para  contribuir  a  la  enseñanza- aprendizaje y a las líneas y/o proyectos de investigación; y específicamente el COMPONENTE: 12.3.4 Establece mecanismos para contribuir desde la vinculación con  la  sociedad  a  las  líneas  y/o  proyectos  de  investigación,  se  revisó  el  “Plan de Desarrollo Institucional” 2014 – 2018 de la UTB, que incorpora el objetivo específico (OE3), que busca consolidar la participación de la universidad en la solución de los problemas socio - económicos nacionales y regionales aplicando las siguientes estrategias: ejecución de programas y proyectos socio productivos en función de los resultados de las investigaciones realizadas en la universidad y de las necesidades territoriales (OE3-E1); y la generación y ejecución de proyectos socio - productivos en función de los resultados de las investigaciones científicas de acuerdo a las necesidades nacionales, regionales y locales (OE3-E2), estos lineamientos de planificación no se incluyen en su reglamento y plan de vinculación con la colectividad de la universidad; es decir, la forma de ejecutarlos, por lo tanto, no existen normativa o mecanismos para contribuir desde la vinculación con la colectividad la creación de líneas o proyectos de investigación; razón por la cual se valoró como Incumplimiento.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento Parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 12.1",
+          "id": "12.1",
+          "description": "La institución planifica los programas y/o proyectos de vinculación con la sociedad relacionados con uno o varios de los siguientes campos de acción: servicios a la comunidad, educación continua, gestión de redes, cooperación y desarrollo, relaciones internacionales, difusión y distribución del saber[66] y prestación de servicios[67], vinculados a sus dominios académicos[68].",
+          "reference": "[66] RRA, CES 2017, Art.82. [67] RRA, CES 2017, Art.81. [68] RRA, CES 2017, Art. 79.",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 12.1.1",
+              "id": "12.1.1",
+              "description": "La institución planifica los programas y/o proyectos de vinculación con la sociedad relacionados con uno o varios de los siguientes campos de acción: servicios a la comunidad, educación continua, gestión de redes, cooperación y desarrollo, relaciones internacionales, difusión y distribución del saber y prestación de servicios, vinculados a sus dominios académicos",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.1.2",
+              "id": "12.1.2",
+              "description": "Los programas y/o proyectos de vinculación con la sociedad están vinculados a sus dominios académicos.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 12.2",
+          "id": "12.2",
+          "description": "La institución planifica los programas y/o proyectos de vinculación con la sociedad, en coherencia con su modelo educativo, dominios académicos, con los planes nacionales, regionales o locales, y los requerimientos sociales, culturales y/o productivos del entorno, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 12.2.1",
+              "id": "12.2.1",
+              "description": "Planifica los programas y/o proyectos de vinculación con la sociedad, en coherencia con su modelo educativo y dominios académicos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.2.2",
+              "id": "12.2.2",
+              "description": "Planifica los programas y/o proyectos de vinculación con la sociedad, en coherencia con los planes nacionales, regionales o locales, y los requerimientos sociales, culturales y/o productivos del entorno.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.2.3",
+              "id": "12.2.3",
+              "description": "Cuenta con instancias responsables de coordinar los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 12.3",
+          "id": "12.3",
+          "description": "La institución planifica el seguimiento y evaluación de los programas y/o proyectos de vinculación con la sociedad, para lo que define una metodología, y establece mecanismos para contribuir a la enseñanza-aprendizaje y a las líneas y/o proyectos de investigación",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 12.3.1",
+              "id": "12.3.1",
+              "description": "Planifica el seguimiento y evaluación de los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.3.2",
+              "id": "12.3.2",
+              "description": "Define una metodología para el seguimiento y evaluación de los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 12.3.3",
+              "id": "12.3.3",
+              "description": "Establece mecanismos para contribuir desde la vinculación con la sociedad a la enseñanza-aprendizaje.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.3.4",
+              "id": "12.3.4",
+              "description": "Establece mecanismos para contribuir desde la vinculación con la sociedad a las líneas y/o proyectos de investigación.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 12.4",
+          "id": "12.4",
+          "description": "La institución establece estrategias para garantizar el desarrollo de las prácticas preprofesionales y prácticas de posgrado del estudiantado de ser el caso[69], las cuales se planifican en el marco de los programas y/o proyectos de vinculación con la sociedad y sobre la base de convenios y/o acuerdos con entidades públicas y/o privadas.",
+          "reference": "[69] RRA, CES 2017, Arts. 94, 92.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 12.4.1",
+              "id": "12.4.1",
+              "description": "Establece estrategias para garantizar el desarrollo de las prácticas preprofesionales y prácticas de posgrado del estudiantado de ser el caso.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 12.4.2",
+              "id": "12.4.2",
+              "description": "Las prácticas preprofesionales y prácticas de posgrado del estudiantado de ser el caso, están enmarcadas en los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 12.4.3",
+              "id": "12.4.3",
+              "description": "Las prácticas preprofesionales y prácticas de posgrado del estudiantado de ser el caso, se planifican sobre la base de convenios y/o acuerdos con entidades públicas y/o privadas.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 12.5",
+          "id": "12.5",
+          "description": "La institución planifica la participación del profesorado, estudiantado, y/o personal requerido; asigna recursos económicos internos y/o externos, para la ejecución de los programas y/o proyectos de vinculación con la sociedad.",
+          "reference": "",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 12.5.1",
+              "id": "12.5.1",
+              "description": "Planifica la participación del profesorado en los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 12.5.2",
+              "id": "12.5.2",
+              "description": "Planifica la participación del estudiantado y/o personal requerido en los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 12.5.3",
+              "id": "12.5.3",
+              "description": "Asigna recursos económicos internos y/o externos, para la ejecución de los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Modelo educativo."
+        },
+        {
+          "id": "2.",
+          "description": "Normativa y/o procedimientos que rigen la vinculación con la sociedad."
+        },
+        {
+          "id": "3.",
+          "description": "Plan estratégico de desarrollo institucional en que se incluya la planificación de vinculación o plan específico de vinculación."
+        },
+        {
+          "id": "4.",
+          "description": "Plan Operativo Anual"
+        },
+        {
+          "id": "5.",
+          "description": "Plan(es) nacionales, regionales, locales que sean un referente de los programas y/o proyectos de vinculación con la sociedad."
+        },
+        {
+          "id": "6.",
+          "description": "Documento(s) que evidencie(n) requerimientos sociales, culturales y/o productivos de actores del entorno."
+        },
+        {
+          "id": "7.",
+          "description": "Plan(es) y metodología(s) de seguimiento y evaluación de programas y/o proyectos de vinculación."
+        },
+        {
+          "id": "8.",
+          "description": "Documentos que muestren la planificación y las estrategias de la institución para la realización de prácticas preprofesionales y de posgrado cuando corresponda."
+        },
+        {
+          "id": "9.",
+          "description": "Convenios o acuerdos con instituciones públicas y/o privadas para la ejecución de prácticas preprofesionales o de posgrado, y/o programas y/o proyectos de vinculación con la sociedad."
+        },
+        {
+          "id": "10.",
+          "description": "Presupuesto programado para vinculación con la sociedad."
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ"
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 13",
+      "id": "13",
+      "type": "Sustantivo",
+      "axis": "Vinculación con la Sociedad",
+      "dimension": "Dimensión Ejecución",
+      "component": "",
+      "description": "Ejecución de los procesos de vinculación con la sociedad",
+      "concept": "La institución ejecuta los programas y/o proyectos de vinculación con la sociedad, articulados a sus dominios académicos, con la participación de profesores, estudiantes y actores involucrados; da seguimiento y los evalúa, a través de instancias responsables.",
+      "reference": "",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 13.1",
+          "id": "13.1",
+          "description": "La institución ejecuta programas y/o proyectos de vinculación con la sociedad relacionados con uno o varios de los siguientes campos de acción: servicios a la comunidad, educación continua, gestión de redes, cooperación y desarrollo, relaciones internacionales, difusión y distribución del saber, consultorías y prestación de servicios, vinculados a sus dominios académicos, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "cumplimiento Satisfactorio",
+          "components": [
+            {
+              "name": "Componente 13.1.1",
+              "id": "13.1.1",
+              "description": "Ejecuta programas y/o proyectos de vinculación con la sociedad relacionados con uno o varios de los siguientes campos de acción: servicios a la comunidad, educación continua, gestión de redes, cooperación y desarrollo, relaciones internacionales, difusión y distribución del saber, consultorías y prestación de servicios.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.1.2",
+              "id": "13.1.2",
+              "description": "Los programas y/o proyectos de vinculación con la sociedad están vinculados a sus dominios académicos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.1.3",
+              "id": "13.1.3",
+              "description": "Los programas y/o proyectos de vinculación con la sociedad se ejecutan bajo la coordinación de instancias responsables.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 13.2",
+          "id": "13.2",
+          "description": "La institución, a través de instancias responsables, da seguimiento y evalúa los programas y/o proyectos de vinculación con la sociedad con base en la metodología definida, incluyendo la participación de actores involucrados.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 13.2.1",
+              "id": "13.2.1",
+              "description": "Da seguimiento y evalúa los programas y/o proyectos de vinculación con la sociedad con la sociedad.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.2.2",
+              "id": "13.2.2",
+              "description": "El seguimiento y la evaluación de los programas y/o proyectos de vinculación se realiza con base en la metodología definida.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 13.2.3",
+              "id": "13.2.3",
+              "description": "En el seguimiento y la evaluación de los programas y/o proyectos de vinculación se incluye la participación de actores involucrados.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 13.2.4",
+              "id": "13.2.4",
+              "description": "Cuenta con instancias responsables de la coordinación del seguimiento y evaluación de los programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 13.3",
+          "id": "13.3",
+          "description": "Las prácticas preprofesionales o profesionales de posgrado, de ser el caso, en su componente comunitario se realizan en el marco de programas y/o proyectos de vinculación con la sociedad y, en su componente laboral se ejecutan sobre la base de convenios y/o acuerdos con entidades públicas y/o privadas, y en todos los casos con la tutoría académica respectiva, bajo la coordinación de instancias responsables.",
+          "reference": "",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 13.3.1",
+              "id": "13.3.1",
+              "description": "Las prácticas preprofesionales o profesionales de posgrado de ser el caso, en su componente comunitario se realizan en el marco de programas y/o proyectos de vinculación con la sociedad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 13.3.2",
+              "id": "13.3.2",
+              "description": "Las prácticas preprofesionales o profesionales de posgrado de ser el caso, en su componente laboral se ejecutan sobre la base de convenios y/o acuerdos con entidades públicas y/o privadas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.3.3",
+              "id": "13.3.3",
+              "description": "Las prácticas preprofesionales o profesionales de posgrado de ser el caso, se ejecutan con la tutoría académica respectiva.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.2.4",
+              "id": "13.2.4",
+              "description": "Cuenta con instancias responsables de la coordinación de las prácticas preprofesionales o profesionales de posgrado, de ser el caso.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 13.4",
+          "id": "13.4",
+          "description": "El profesorado involucrado en los programas y/o proyectos de vinculación con la sociedad cuenta con la carga horaria respectiva, conforme al distributivo de actividades, y el estudiantado participa de acuerdo a su carrera o programa.",
+          "reference": "",
+          "assessment": "cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 13.4.1",
+              "id": "13.4.1",
+              "description": "El profesorado involucrado en los programas y/o proyectos de vinculación con la sociedad cuenta con la carga horaria respectiva, conforme al distributivo de actividades.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 13.4.2",
+              "id": "13.4.2",
+              "description": "El estudiantado participa en los programas y/o proyectos de vinculación con la sociedad de acuerdo a su carrera o programa.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 13.5",
+          "id": "13.5",
+          "description": "El presupuesto asignado para programas y/o proyectos de vinculación con la sociedad se ejecuta conforme a lo planificado y/o gestionan y ejecutan recursos externos para la realización de los programas y/o proyectos.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 13.5.1",
+              "id": "13.5.1",
+              "description": "El presupuesto asignado para programas y/o proyectos de vinculación con la sociedad se ejecuta conforme a lo planificado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 13.5.2",
+              "id": "13.5.2",
+              "description": "Gestiona y ejecuta recursos externos para la realización de los programas y/o proyectos.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Tres programas y/o proyectos de vinculación con la sociedad realizados por la institución que sean considerados relevantes70."
+        },
+        {
+          "id": "2.",
+          "description": "SIIES: Programas y/o proyectos de vinculación con la sociedad en ejecución según facultad y/o carrera, y según estado (inicio, intermedio, cierre, detenido o cancelado)."
+        },
+        {
+          "id": "3.",
+          "description": "Programas y/o proyectos de vinculación con la sociedad en ejecución y finalizados en el periodo de evaluación, según la participación de actores externos: comunidades, organizaciones, instituciones públicas y/o privadas."
+        },
+        {
+          "id": "4.",
+          "description": "Documentos del seguimiento realizado por instancias responsables de los programas y/o proyectos de vinculación con la sociedad, ejecutados."
+        },
+        {
+          "id": "5.",
+          "description": "SIIES: Listado de programas y/o proyectos de vinculación con la sociedad y profesores involucrados, con su asignación de carga horaria."
+        },
+        {
+          "id": "6.",
+          "description": "Listado de estudiantes por carrera, que participaron en programas y/o proyectos de vinculación con la sociedad (diferentes a las prácticas preprofesionales del componente laboral)."
+        },
+        {
+          "id": "7.",
+          "description": "SIIES: Listado de estudiantes que han realizado prácticas preprofesionales por carrera y tipo de institución."
+        },
+        {
+          "id": "8.",
+          "description": "Informes de tutorías de las prácticas preprofesionales o de posgrado según corresponda (se sugiere un informe por facultad)."
+        },
+        {
+          "id": "9.",
+          "description": "Convenios o acuerdos vigentes entre instituciones públicas y/o privadas que fueron el marco para la ejecución de programas y/o proyectos, y prácticas preprofesionales."
+        },
+        {
+          "id": "10.",
+          "description": "Presupuesto planificado y ejecutado para vinculación con la sociedad en el periodo de evaluación, proveniente de fondos propios o externos."
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 14",
+      "id": "14",
+      "type": "Sustantivo",
+      "axis": "Vinculación con la Sociedad",
+      "dimension": "Dimensión Resultados",
+      "component": "",
+      "description": "Resultados de los procesos de vinculación con la sociedad",
+      "concept": "Los resultados obtenidos de los programas y/o proyectos de vinculación con la sociedad, cumplen los objetivos planificados y han generado respuestas a los requerimientos y necesidades del entorno.",
+      "reference": "",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar.",
+      "evaluated": "Si",
+      "assessment": "Incumplimiento",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 14.1",
+          "id": "14.1",
+          "description": "Las evaluaciones de los programas y/o proyectos de vinculación con la sociedad, concluidos o de las fases culminadas, permiten verificar el cumplimiento de los objetivos propuestos e identificar resultados",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 14.1.1",
+              "id": "14.1.1",
+              "description": "Las evaluaciones de los programas y/o proyectos de vinculación con la sociedad concluidos o de las fases culminadas, permiten verificar el cumplimiento de los objetivos propuestos.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 14.1.2",
+              "id": "14.1.2",
+              "description": "Las evaluaciones de los programas y/o proyectos de vinculación con la sociedad concluidos o de las fases culminadas, permiten identificar resultados.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 14.2",
+          "id": "14.2",
+          "description": "Las evaluaciones de los programas y/o proyectos de vinculación con la sociedad evidencian que estos han generado respuestas a las necesidades del entorno, lo que es corroborado por actores externos participantes.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 14.2.1",
+              "id": "14.2.1",
+              "description": "Las evaluaciones de los programas y/o proyectos de vinculación con la sociedad evidencian que estos han generado respuestas a las necesidades del entorno.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 14.2.2",
+              "id": "14.2.2",
+              "description": "Actores externos participantes corroboran que los programas y/o proyectos de vinculación con la sociedad han generado respuestas a las necesidades del entorno.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 14.3",
+          "id": "14.3",
+          "description": "Los mecanismos desarrollados por la institución logran que los programas y/o proyectos de vinculación con la sociedad contribuyan al proceso de enseñanza-aprendizaje, al desarrollo de líneas y/o proyectos de investigación.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 14.3.1",
+              "id": "14.3.1",
+              "description": "Los mecanismos desarrollados por la institución logran que los programas y/o proyectos de vinculación con la sociedad contribuyan al proceso de enseñanza-aprendizaje.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 14.3.2",
+              "id": "14.3.2",
+              "description": "Los mecanismos desarrollados por la institución logran que los programas y/o proyectos de vinculación con la sociedad contribuyan al desarrollo de líneas y/o proyectos de investigación.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 14.4",
+          "id": "14.4",
+          "description": "Los resultados del seguimiento a los graduados, contribuyen a la retroalimentación de la oferta académica, a la generación y/o fortalecimiento de vínculos con el entorno.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 14.4.1",
+              "id": "14.4.1",
+              "description": "Los resultados del seguimiento a los graduados, contribuyen a la retroalimentación de la oferta académica.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 14.4.2",
+              "id": "14.4.2",
+              "description": "Los resultados del seguimiento a los graduados, contribuyen a la generación y/o fortalecimiento de vínculos con el entorno.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 14.5",
+          "id": "14.5",
+          "description": "Los resultados de la vinculación con la sociedad contribuyen a la generación de nuevos programas y/o proyectos, y/o a la reformulación de éstos en sus diversos campos de acción.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 14.5.1",
+              "id": "14.5.1",
+              "description": "Los resultados de la vinculación con la sociedad contribuyen a la generación de nuevos programas y/o proyectos en sus diversos campos de acción.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 14.5.2",
+              "id": "14.5.2",
+              "description": "Los resultados de la vinculación con la sociedad contribuyen a la reformulación de los programas y/o proyectos en sus diversos campos de acción.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Informes de evaluación de programas y/o proyectos que finalizaron o informes de fases culminadas que incluyan las contribuciones a las necesidades o requerimientos del entorno. (se sugiere priorizar los informes sobre los tres programas y/o proyectos señalados en el estándar anterior)."
+        },
+        {
+          "id": "2.",
+          "description": "Documentos que evidencien las contribuciones de los programas y/o proyectos de vinculación con la sociedad a los procesos de enseñanza-aprendizaje, y a las líneas y/o proyectos de investigación."
+        },
+        {
+          "id": "3.",
+          "description": "Informe(s) del seguimiento a los graduados que muestren la implementación demedidas de mejora en función de los resultados obtenidos de este seguimiento."
+        },
+        {
+          "id": "4.",
+          "description": "Programas y/o proyectos de vinculación con la sociedad nuevos o reformulados en función de los resultados de la vinculación con la sociedad."
+        },
+        {
+          "id": "5.",
+          "description": "Entrevistas realizadas en la visita in situ. (incluyendo actores externos)."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 15",
+      "id": "15",
+      "type": "Sustantivo",
+      "axis": "Condiciones Institucionales",
+      "dimension": "",
+      "component": "",
+      "description": "Planificación estratégica y operativa",
+      "concept": "La institución cuenta con planificación estratégica y operativa institucional pertinente, que orienta la gestión de las funciones sustantivas y las actividades institucionales; es ejecutada, monitoreada, evaluada y difundida por instancias responsables, en coherencia con su modelo educativo y con la participación de la comunidad universitaria.",
+      "reference": "",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar",
+      "evaluated": "Si",
+      "assessment": "Incumplimiento",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 15.1",
+          "id": "15.1",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para planificar sus estrategias de desarrollo institucional, alineadas con su modelo educativo, contemplando el principio de pertinencia.",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 15.1.1",
+              "id": "15.1.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para planificar sus estrategias de desarrollo institucional.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.1.2",
+              "id": "15.1.2",
+              "description": "Las estrategias de desarrollo institucional están alineadas con su modelo educativo.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 15.1.3",
+              "id": "15.1.3",
+              "description": "Las estrategias de desarrollo institucional contemplan el principio de pertinencia.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 15.2",
+          "id": "15.2",
+          "description": "La institución cuenta con una instancia responsable de elaborar, dar seguimiento y evaluar, al menos anualmente, la planificación estratégica y operativa, en coordinación con otras áreas de gestión",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 15.2.1",
+              "id": "15.2.1",
+              "description": "La instancia responsable elabora, da seguimiento, y evalúa, al menos anualmente, la planificación estratégica.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.2.2",
+              "id": "15.2.2",
+              "description": "La instancia responsable elabora, da seguimiento, y evalúa, al menos anualmente, la planificación operativa.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.2.3",
+              "id": "15.2.3",
+              "description": "La instancia responsable trabaja en coordinación con otras áreas de gestión.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 15.3",
+          "id": "15.3",
+          "description": "La planificación estratégica institucional establece directrices para el desarrollo y el mejoramiento continuo de las funciones sustantivas y de las actividades institucionales; y la planificación operativa anual prevé los recursos financieros y humanos necesarios para dar cumplimiento a lo programado.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 15.3.1",
+              "id": "15.3.1",
+              "description": "La planificación estratégica institucional establece directrices para el desarrollo y el mejoramiento continuo de las funciones sustantivas y de las actividades institucionales.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 15.3.2",
+              "id": "15.3.2",
+              "description": "La planificación operativa anual prevé los recursos financieros y humanos necesarios para dar cumplimiento a lo programado.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 15.4",
+          "id": "15.4",
+          "description": "La planificación estratégica y operativa institucional integra los hallazgos de los procesos de autoevaluación, evaluaciones externas y/o resultados de diagnósticos institucionales, y es elaborada con la participación de la comunidad universitaria.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 15.4.1",
+              "id": "15.4.1",
+              "description": "La planificación estratégica y operativa institucional integra los hallazgos de los procesos de autoevaluación y de evaluaciones externas.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.4.2",
+              "id": "15.4.2",
+              "description": "La planificación estratégica y operativa institucional integra los resultados de diagnósticos institucionales.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.4.3",
+              "id": "1.4.3",
+              "description": "La planificación estratégica y operativa institucional es elaborada con la participación de la comunidad universitaria.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 15.5",
+          "id": "15.5",
+          "description": "La institución aplica estrategias para promover la participación de la comunidad universitaria en la planificación estratégica y operativa institucional, en la difusión y en la implementación.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 15.5.1",
+              "id": "15.5.1",
+              "description": "Aplica estrategias estrategias para promover la participación de la comunidad universitaria en la planificación estratégica y operativa institucional.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.5.2",
+              "id": "15.5.2",
+              "description": "Aplica estrategias estrategias para promover la participación de la comunidad universitaria en la difusión de la planificación estratégica y operativa institucional.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 15.5.3",
+              "id": "15.5.3",
+              "description": "Aplica estrategias estrategias para promover la participación de la comunidad universitaria en la implementación de la planificación estratégica y operativa institucional.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Modelo educativo."
+        },
+        {
+          "id": "2.",
+          "description": "Estatuto."
+        },
+        {
+          "id": "3.",
+          "description": "Documentos que evidencien la existencia de la instancia responsable de la planificación."
+        },
+        {
+          "id": "4.",
+          "description": "Plan Estratégico de Desarrollo Institucional."
+        },
+        {
+          "id": "5.",
+          "description": "Plan Operativo Anual."
+        },
+        {
+          "id": "6.",
+          "description": "Estudios más recientes de pertinencia o equivalentes, que se realizaron para la elaboración o ajuste del plan estratégico."
+        },
+        {
+          "id": "7.",
+          "description": "Informe sobre las estrategias implementadas para la participación de la comunidad universitaria en la elaboración de la planificación estratégica y operativa, y para su difusión."
+        },
+        {
+          "id": "8.",
+          "description": "Documentos que evidencien la ejecución, el seguimiento, y la evaluación del PEDI y del POA."
+        },
+        {
+          "id": "9.",
+          "description": "Informe que evidencie los ajustes realizados en el PEDI y en el POA a partir de los resultados de las evaluaciones internas y externas."
+        },
+        {
+          "id": "10.",
+          "description": "Entrevistas realizadas en la visita in situ"
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 16",
+      "id": "16",
+      "type": "Sustantivo",
+      "axis": "Condiciones Institucionales",
+      "dimension": "",
+      "component": "",
+      "description": "Infraestructura y equipamiento informático[71]",
+      "concept": "La institución cuenta con infraestructura y equipamiento físico e informático, funcional y suficiente, para el desarrollo de las actividades académicas y administrativas, atendiendo, además, las necesidades de personas con discapacidad, bajo la gestión de instancias responsables",
+      "reference": "[71] Para la valoración de este estándar se realizará una verificación técnica con formularios estandarizados para recoger la información.",
+      "observation": "RESPUESTA EF-16.3: Para evaluar el Elemento Fundamental 16.3. La institución dispone de estaciones de trabajo individuales y de uso exclusivo para los profesores a tiempo completo y espacios de trabajo colectivo para los  profesores  a  medio  tiempo  y  tiempo  parcial, con las condiciones físicas, tecnológicas y con conectividad a Internet necesarias para el  desarrollo  de  sus  actividades; y específicamente el COMPONENTE: 16.3.1 Dispone de estaciones de trabajo individuales y de uso exclusivo para los profesores a tiempo completo, se revisó los planos arquitectónicos de las instalaciones de la Universidad Técnica de Babahoyo (UTB), donde se ubican estaciones de trabajo para los profesores a tiempo completo; en la visita técnica se verificó la existencia de ciento cincuenta (150) estaciones de trabajo individuales para profesores a tiempo completo; y en la visita in situ, se observó que estas estaciones tienen las condiciones físicas y tecnológicas adecuadas, que cuentan con conectividad a internet y facilidad de impresión, como se registró en las fichas de la visita técnica.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento Parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 16.1",
+          "id": "16.1",
+          "description": "La institución, a través de instancias responsables, planifica y da seguimiento a la construcción, equipamiento, mantenimiento, seguridad y limpieza de la infraestructura institucional, garantizando el cumplimiento de criterios de accesibilidad universal[72].",
+          "reference": "[72] LOES 2010, DT 18. LOES 2018, DG 23. La garantía de accesibilidad se evaluará en aulas, servicios, mobiliario, baterías sanitarias, estacionamiento, vías de circulación, etc.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 16.1.1",
+              "id": "16.1.1",
+              "description": "Las instancias responsables planifican la construcción, equipamiento, mantenimiento, seguridad y limpieza de la infraestructura institucional.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 16.1.2",
+              "id": "16.1.2",
+              "description": "Las instancias responsables dan seguimiento a la construcción, equipamiento, mantenimiento, seguridad y limpieza de la infraestructura institucional.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 16.1.3",
+              "id": "16.1.3",
+              "description": "Garantiza el cumplimiento de criterios de accesibilidad universal.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 16.2",
+          "id": "16.2",
+          "description": "La institución cuenta con aulas con condiciones físicas, tecnológicas y con conectividad a internet[73] necesarias para el desarrollo de las actividades de enseñanza-aprendizaje[74].",
+          "reference": "[73]La conectividad a internet se calculará durante la verificación técnica.[74] Condiciones físicas y tecnológicas se refiere a: disponibilidad; facilidades de acceso; buena iluminación, ventilación y limpieza; ",
+          "assessment": "cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 16.2.1",
+              "id": "16.2.1",
+              "description": "Cuenta con aulas con condiciones físicas para el desarrollo de las actividades de enseñanza-aprendizaje.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 16.2.2",
+              "id": "16.2.2",
+              "description": "Cuenta con aulas con condiciones tecnológicas para el desarrollo de las actividades de enseñanza-aprendizaje.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 16.2.3",
+              "id": "16.2.3",
+              "description": "Cuenta con aulas con conectividad a internet.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 16.3",
+          "id": "16.3",
+          "description": "La institución dispone de estaciones de trabajo individuales y de uso exclusivo para los profesores  a tiempo completo y espacios de trabajo colectivo  para los profesores  a medio tiempo y tiempo parcial, con las condiciones físicas, tecnológicas y con conectividad a internet necesarias[75] para el desarrollo de sus actividades.",
+          "reference": "[75] Las condiciones físicas y tecnológicas necesarias de los espacios y estaciones de trabajo implican disponer al menos de: computador, acceso a internet e impresora. En el caso de la modalidad a distancia se realizará una verificación aleatoria en los centros de apoyo.",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 16.3.1",
+              "id": "16.3.1",
+              "description": "Dispone de estaciones de trabajo individuales y de uso exclusivo para los profesores a tiempo completo.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 16.3.2",
+              "id": "16.3.2",
+              "description": "Dispone de espacios de trabajo colectivo para los profesores a medio tiempo y tiempo parcial, y cuentan con las condiciones físicas, tecnológicas y con conectividad a internet.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 16.4",
+          "id": "16.4",
+          "description": "La institución cuenta con baterías sanitarias y lavamanos para hombres y mujeres, suficientes, funcionales, limpios, en buen estado y con los suministros necesarios[76]; así como, baños con las mismas condiciones para personas con discapacidad.",
+          "reference": "[76] Suministros necesarios se refiere a: jabón y papel higiénico. En el caso de la modalidad a distancia se realizará una verificación aleatoria en los centros de apoyo.",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 16.4.1",
+              "id": "16.4.1",
+              "description": "Cuenta con baterías sanitarias y lavamanos para hombres y mujeres, suficientes, funcionales, limpios, en buen estado y con los suministros necesarios.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 16.4.2",
+              "id": "16.4.2",
+              "description": "Cuenta con baños para personas con discapacidad, suficientes y funcionales, limpios, en buen estado y con los suministros necesarios.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 16.5",
+          "id": "16.5",
+          "description": "La institución cuenta con una plataforma informática disponible y accesible a la comunidad universitaria para la gestión de los procesos académicos y administrativos.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 16.5.1",
+              "id": "16.5.1",
+              "description": "Cuenta con una plataforma informática disponible y accesible a la comunidad universitaria para la gestión de los procesos académicos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 16.5.2",
+              "id": "16.5.2",
+              "description": "Cuenta con una plataforma informática disponible y accesible a la comunidad universitaria para la gestión de los procesos administrativos.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Croquis de la infraestructura institucional y distribución de edificaciones (aulas, baños, estaciones de trabajo individuales de uso exclusivo para los profesores a tiempo completo y espacios de trabajo colectivo para los profesores a medio tiempo y tiempo parcial)."
+        },
+        {
+          "id": "2.",
+          "description": "Permisos vigentes de los respectivos organismos de control relativos a la infraestructura."
+        },
+        {
+          "id": "3.",
+          "description": "Plan de construcción, equipamiento, mantenimiento, seguridad y limpieza de la infraestructura institucional."
+        },
+        {
+          "id": "4.",
+          "description": "Manual de uso de la plataforma informática para la gestión de los procesos académicos y administrativos de la institución."
+        },
+        {
+          "id": "5.",
+          "description": "Verificación técnica previa a la visita in situ."
+        },
+        {
+          "id": "6.",
+          "description": "Entrevistas realizadas en la visita in situ"
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 17",
+      "id": "17",
+      "type": "Sustantivo",
+      "axis": "Condiciones Institucionales",
+      "dimension": "",
+      "component": "",
+      "description": "Bibliotecas [77]",
+      "concept": "La institución dispone de bibliotecas que cuentan con instalaciones apropiadas, con un acervo bibliográfico físico y digital acorde a la oferta académica, con un sistema informático de gestión que responde a los requerimientos de la comunidad universitaria.",
+      "reference": "[77] Para la valoración de este estándar se realizará una verificación técnica con formularios estandarizados para recoger la información.",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 17.1",
+          "id": "17.1",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, y cuenta con personal especializado, para la gestión técnica de las bibliotecas.",
+          "reference": "[78] Para las instituciones que ofertan carreras y programas en modalidad no presencial, no se tomará en cuenta el elemento fundamental 17.4. Los demás se aplicarán para el análisis de la(s) biblioteca(s) virtual(es).",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 17.1.1",
+              "id": "17.1.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para la gestión técnica de las bibliotecas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 17.1.2",
+              "id": "17.1.2",
+              "description": "Cuenta con personal especializado, para la gestión técnica de las bibliotecas.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 17.2",
+          "id": "17.2",
+          "description": "La institución gestiona la conservación y actualización del acervo bibliográfico físico y digital, incluyendo recursos bibliográficos en formatos de accesibilidad universal79, y el mejoramiento de los servicios de las bibliotecas.",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 17.2.1",
+              "id": "17.2.1",
+              "description": "Gestiona la conservación y actualización del acervo bibliográfico físico y digital.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 17.2.2",
+              "id": "17.2.2",
+              "description": "Gestiona el mejoramiento de los servicios de las bibliotecas.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 17.2.3",
+              "id": "17.2.3",
+              "description": "Incluye recursos bibliográficos en formatos de accesibilidad universal.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 17.3",
+          "id": "17.3",
+          "description": "El acervo bibliográfico físico y digital es coherente con la oferta académica, responde a los requerimientos de la comunidad universitaria, y se complementa con el acceso a bases de datos de publicaciones científicas multidisciplinarias y especializadas.",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 17.3.1",
+              "id": "17.3.1",
+              "description": "El acervo bibliográfico físico y digital es coherente con la oferta académica.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 17.3.2",
+              "id": "17.3.2",
+              "description": "El acervo bibliográfico físico y digital responde a los requerimientos de la comunidad universitaria.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 17.3.3",
+              "id": "17.3.3",
+              "description": "El acervo bibliográfico físico y digital se complementa con el acceso a bases de datos de publicaciones científicas multidisciplinarias y especializadas.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 17.4",
+          "id": "17.4",
+          "description": "Las bibliotecas físicas cuentan con estaciones de trabajo individuales y colectivas, conectividad a internet, conexiones eléctricas, iluminación y ambiente apropiados para el estudio y con condiciones de accesibilidad universal.",
+          "reference": "",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 17.4.1",
+              "id": "17.4.1",
+              "description": "Las bibliotecas físicas cuentan con estaciones de trabajo individuales y colectivas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 17.4.2",
+              "id": "17.4.2",
+              "description": "Las bibliotecas físicas cuentan con conectividad a internet, conexiones eléctricas, iluminación y ambiente apropiados para el estudio.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 17.4.3",
+              "id": "17.4.3",
+              "description": "Las bibliotecas físicas cuentan con condiciones de accesibilidad universal.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 17.5",
+          "id": "17.5",
+          "description": "",
+          "reference": "Las bibliotecas cuentan con un sistema informático de gestión, que facilita el acceso remoto al catálogo y recursos bibliográficos y permite el seguimiento del uso de los recursos bibliográficos físicos y digitales.",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 17.5.1",
+              "id": "17.5.1",
+              "description": "Las bibliotecas cuentan con un sistema informático de gestión, que facilita el acceso remoto al catálogo y recursos bibliográficos.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 17.5.2",
+              "id": "17.5.2",
+              "description": "El sistema informático permite el seguimiento del uso de los recursos bibliográficos físicos y digitales.",
+              "fulfilled": "Si"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Documento de procedimientos para la gestión técnica del sistema de bibliotecas de la institución."
+        },
+        {
+          "id": "2.",
+          "description": "Plan Operativo Anual (POA) vigente y/o el presupuesto asignado y ejecutado para el sistema de bibliotecas con su respectivo seguimiento."
+        },
+        {
+          "id": "3.",
+          "description": "Informe de gestión de la biblioteca que incluya: ejecución presupuestaria, adquisición o canje de libros/e-books, suscripción a bases de datos especializadas, mantenimiento, capacitaciones al personal de biblioteca, identificación delnúmero de consultas y usuarios de los recursos bibliográficos, y que indique si la biblioteca dispone de las condiciones y equipamiento apropiado para garantizar la accesibilidad universal."
+        },
+        {
+          "id": "4.",
+          "description": "Manual de uso del sistema informático de bibliotecas."
+        },
+        {
+          "id": "5.",
+          "description": "ista de títulos adquiridos en el periodo de evaluación indicando la relación con los requerimientos de la comunidad universitaria y la oferta académica."
+        },
+        {
+          "id": "6.",
+          "description": "Verificación técnica previa a la visita in situ."
+        },
+        {
+          "id": "7.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 18",
+      "id": "18",
+      "type": "Sustantivo",
+      "axis": "Condiciones Institucionales",
+      "dimension": "",
+      "component": "",
+      "description": "Gestión interna de la calidad",
+      "concept": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para la mejora continua de sus procesos, y cuenta con una instancia responsable de la coordinación del aseguramiento de la calidad, con los aportes de la gestión documental y de la información.",
+      "reference": "",
+      "observation": "La IES no realizó observaciones al informe preliminar en este estándar.",
+      "evaluated": "Si",
+      "assessment": "Incumplimiento ",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 18.1",
+          "id": "18.1",
+          "description": "La institución difunde y aplica normativa y/o procedimientos, aprobados y vigentes, para el aseguramiento de la calidad, que promueven la autorreflexión de la comunidad universitaria para la mejora continua de los distintos procesos académicos y administrativos.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 18.1.1",
+              "id": "1.1.1",
+              "description": "Difunde y aplica normativa y/o procedimientos, aprobados y vigentes, para el aseguramiento de la calidad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.1.2",
+              "id": "18.1.2",
+              "description": "La normativa y/o procedimientos promueven la autorreflexión de la comunidad universitaria para la mejora continua de los distintos procesos académicos.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.1.3",
+              "id": "18.1.3",
+              "description": "La normativa y/o procedimientos promueven la autorreflexión de la comunidad universitaria para la mejora continua de los distintos procesos administrativos.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 18.2",
+          "id": "18.2",
+          "description": "La institución cuenta con instancias responsables de planificar y dar seguimiento a los procesos de aseguramiento de la calidad, incluyendo los de gestión administrativa.",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 18.2.1",
+              "id": "18.2.1",
+              "description": "Las instancias responsables planifican los procesos de aseguramiento de la calidad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.2.2",
+              "id": "18.2.2",
+              "description": "Las instancias responsables dan seguimiento a los procesos de aseguramiento de la calidad.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 18.2.3",
+              "id": "18.2.3",
+              "description": "Las instancias responsables planifican y dan seguimiento a los procesos de gestión administrativa.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 18.3",
+          "id": "18.3",
+          "description": "La  institución  ejecuta  procesos  de  autoevaluación  institucional,  de  sus  carreras   y programas y/o de las funciones sustantivas y/o de la gestión administrativa, para identificar fortalezas y debilidades que le permitan tomar decisiones para mejorar y asegurar la calidad[80].",
+          "reference": "",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 18.3.1",
+              "id": "18.3.1",
+              "description": "Ejecuta procesos de autoevaluación institucional, de sus carreras y programas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 18.3.2",
+              "id": "18.3.2",
+              "description": "Ejecuta procesos de autoevaluación de las funciones sustantivas y/o de la gestión administrativa.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.3.3",
+              "id": "18.3.3",
+              "description": "Los procesos de autoevaluación identifican fortalezas y debilidades que le permiten tomar decisiones para mejorar y asegurar la calidad.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 18.4",
+          "id": "18.4",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para la gestión de la información, de manera que sea organizada, actualizada, confiable y accesible para los procesos de aseguramiento de la calidad.",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 18.4.1",
+              "id": "18.4.1",
+              "description": "Aplica una normativa y/o procedimientos, aprobados y vigentes, para la gestión de la información, de manera que sea organizada para los procesos de aseguramiento de la calidad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.4.2",
+              "id": "18.4.2",
+              "description": "Aplica una normativa y/o procedimientos, aprobados y vigentes, para la gestión de la información, de manera que sea actualizada para los procesos de aseguramiento de la calidad.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.4.3",
+              "id": "18.4.3",
+              "description": "Aplica una normativa y/o procedimientos, aprobados y vigentes, para la gestión de la información, de manera que sea confiable y accesible para los procesos de aseguramiento de la calidad.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 18.5",
+          "id": "18.5",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para la gestión documental y archivística para garantizar el resguardo, organización y la disponibilidad de la documentación, generada en la gestión de los procesos académicos y administrativos y/o la de carácter histórico [81].",
+          "reference": "",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 18.5.1",
+              "id": "18.5.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para la gestión documental y archivística para garantizar el resguardo, organización y la disponibilidad de la documentación, generada en la gestión de los procesos académicos y administrativos",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 18.5.2",
+              "id": "18.5.2",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para la gestión documental y archivística para garantizar el resguardo, organización y la disponibilidad de la documentación de carácter histórico.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Estatuto"
+        },
+        {
+          "id": "2.",
+          "description": "Documentos de normativa y/o procedimientos relativos al aseguramiento de la calidad."
+        },
+        {
+          "id": "3.",
+          "description": "Informes de los procesos de autoevaluación realizados."
+        },
+        {
+          "id": "4.",
+          "description": "Documentos que demuestren las decisiones adoptadas para el mejoramiento institucional."
+        },
+        {
+          "id": "5.",
+          "description": "Protocolos de manejo y gestión de la información."
+        },
+        {
+          "id": "6.",
+          "description": "Documentos de normativa y/o procedimientos para la gestión de documentos y archivos de los procesos académicos y administrativos."
+        },
+        {
+          "id": "7.",
+          "description": "Verificación técnica previa a la visita in situ."
+        },
+        {
+          "id": "8.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 19",
+      "id": "19",
+      "type": "Sustantivo",
+      "axis": "Condiciones Institucionales",
+      "dimension": "",
+      "component": "",
+      "description": "Bienestar estudiantil",
+      "concept": "La institución garantiza condiciones y ambientes apropiados para el bienestar del estudiantado, libres de violencia de cualquier tipo; realiza proyectos de bienestar y brinda servicios que son conocidos por el estudiantado[82].",
+      "reference": "[82] LOES 2010, Art. 86.",
+      "observation": "Para evaluar el Elemento Fundamental 19.1. La institución aplica normativa y/o procedimientos, aprobados y vigentes, para promover los derechos, prevenir la discriminación y garantizar el bienestar de los estudiantes, a través de instancias responsables, teniendo en cuenta estudios de diagnóstico de la población estudiantil; y específicamente el COMPONENTE:19.1.2 Cuenta  estudios  de  diagnóstico  de  la  población  estudiantil, se revisó como se manifiesta en la apelación de la universidad      la fuente de información: Informe de Técnico Institucional BU-080-19, elaborado por el Departamento de Bienestar Universitario, realizado el 5 de febrero del 2019, que en realidad están dentro del periodo de evaluación (septiembre 2018 – febrero 2020), con datos corresponden al año 2018, y que incluyen situaciones diagnosticas producto de la asistencia médica, odontológico y psicológico; información sobre discapacidad, y estudio socioeconómico.",
+      "evaluated": "Si",
+      "assessment": "cumplimiento parcial",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 19.1",
+          "id": "19.1",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para promover los derechos, prevenir la discriminación y garantizar el bienestar de los estudiantes, a través de instancias responsables, teniendo en cuenta estudios de diagnóstico de la población estudiantil.",
+          "reference": "",
+          "assessment": "Aproximacion al cumplimiento",
+          "components": [
+            {
+              "name": "Componente 19.1.1",
+              "id": "19.1.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para promover los derechos, prevenir la discriminación y garantizar el bienestar de los estudiantes.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.1.2",
+              "id": "19.1.2",
+              "description": "Cuenta estudios de diagnóstico de la población estudiantil.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 19.1.3",
+              "id": "19.1.3",
+              "description": "Cuenta con instancias responsables de promover los derechos, prevenir la discriminación y garantizar el bienestar de los estudiantes.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 19.2",
+          "id": "19.2",
+          "description": "La institución provee y difunde los servicios de orientación vocacional y profesional, atención médica, odontológica, psicológica y/o seguros de salud para el estudiantado[83].",
+          "reference": "83 No aplica para modalidad a distancia. ",
+          "assessment": "cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 19.2.1",
+              "id": "19.2.1",
+              "description": "Provee y difunde los servicios de orientación vocacional y profesional para el estudiantado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.2.2",
+              "id": "19.2.2",
+              "description": "Provee y difunde los servicios de atención médica para el estudiantado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.2.3",
+              "id": "19.2.3",
+              "description": "Provee y difunde los servicios de atención odontológica para el estudiantado",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.2.4",
+              "id": "19.2.4",
+              "description": "Provee y difunde los servicios de atención psicológica y/o seguros de salud para el estudiantado.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 19.3",
+          "id": "19.3",
+          "description": "La institución cuenta con espacios físicos polifuncionales de accesibilidad universal, destinados para el desarrollo de actividades culturales, deportivas, sociales y recreativas del estudiantado; además, cuenta con espacios de expendio de alimentos que disponen de permisos de funcionamiento vigentes y reúnen condiciones de higiene[84]",
+          "reference": "[84] No aplica para modalidad a distancia.",
+          "assessment": "Cumplimiento satisfatorio",
+          "components": [
+            {
+              "name": "Componente 19.3.1",
+              "id": "19.3.1",
+              "description": "Cuenta con espacios físicos polifuncionales de accesibilidad universal, destinados para el desarrollo de actividades culturales, deportivas, sociales y recreativas del estudiantado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.3.2",
+              "id": "19.3.2",
+              "description": "Cuenta con espacios de expendio de alimentos que reúnen condiciones de higiene.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.3.3",
+              "id": "1.3.3",
+              "description": "Los espacios de expendio de alimentos disponen de permisos de funcionamiento vigentes.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 19.4",
+          "id": "19.4",
+          "description": "La instancia responsable de bienestar implementa y difunde programas y/o proyectos de prevención del consumo de drogas y bebidas alcohólicas, y coordina con las entidades competentes la atención de los casos detectados en la comunidad universitaria.",
+          "reference": "",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 19.4.1",
+              "id": "19.4.1",
+              "description": "La instancia responsable de bienestar implementa y difunde programas y/o proyectos de prevención del consumo de drogas y bebidas alcohólicas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.4.2",
+              "id": "19.4.2",
+              "description": "La instancia responsable de bienestar coordina con las entidades competentes la atención de los casos detectados en la comunidad universitaria.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 19.5",
+          "id": "19.5",
+          "description": "La institución aplica la normativa y protocolos para prevenir, atender y acompañar casos de violencia, acoso sexual, bullying, incluyendo discriminación a personas con discapacidad, y brinda asistencia a quienes denuncian estos casos, incluyendo el patrocinio en demandas administrativas o judiciales que correspondan[85].",
+          "reference": "[85] LOES 2010, Art. 86.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 19.5.1",
+              "id": "19.5.1",
+              "description": "Aplica la normativa y protocolos para prevenir, atender y acompañar casos de violencia, acoso sexual, bullying, incluyendo discriminación a personas con discapacidad, .",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 19.5.2",
+              "id": "19.5.2",
+              "description": "Brinda asistencia a quienes denuncian casos de violencia, acoso sexual, bullying, incluyendo discriminación a personas con discapacidad.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 19.5.3",
+              "id": "19.5.3",
+              "description": "Brinda patrocinio en demandas administrativas o judiciales que correspondan.",
+              "fulfilled": "No"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Estatuto"
+        },
+        {
+          "id": "2.",
+          "description": "Normativa y/o procedimientos de bienestar estudiantil."
+        },
+        {
+          "id": "3.",
+          "description": "Plan de la unidad de bienestar estudiantil."
+        },
+        {
+          "id": "4.",
+          "description": "Documentos de diagnóstico de necesidades y/o problemáticas del estudiantado."
+        },
+        {
+          "id": "5.",
+          "description": "Permisos y/o certificados de funcionamiento vigentes, emitidos por las entidades pertinentes, para los espacios de expendio de alimentos."
+        },
+        {
+          "id": "6.",
+          "description": "Documentos que evidencien la socialización de programas, proyectos y servicios de bienestar estudiantil."
+        },
+        {
+          "id": "7.",
+          "description": "Informes que evidencien la gestión y resultados de los servicios de bienestar estudiantil."
+        },
+        {
+          "id": "8.",
+          "description": "Estudios y/o  informes del  estado de situación de los  casos de adicción a drogas  o bebidas alcohólicas y casos de violencia denunciados y atendidos, en caso de existir, respetando el anonimato de las personas involucradas."
+        },
+        {
+          "id": "9.",
+          "description": "Políticas y/o protocolo para prevenir, atender y acompañar casos de violencia,acoso sexual, bullying, incluyendo la discriminación a personas con discapacidad."
+        },
+        {
+          "id": "10.",
+          "description": "Verificación técnica previa a la visita in situ.."
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    },
+    {
+      "standardName": "Estandar 20",
+      "id": "20",
+      "type": "Sustantivo",
+      "axis": "Docencia",
+      "dimension": "Condiciones Institucionales",
+      "component": "",
+      "description": "Igualdad de oportunidades",
+      "concept": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para garantizar la igualdad de oportunidades de la comunidad universitaria, sin ninguna clase de discriminación, en el marco de la normativa del sistema de educación superior86.",
+      "reference": "[86] Constitución Arts. 11 y 27; LOES 2010, Art. 71; Art. 6 Lit. c), Arts. 91 y 92.",
+      "observation": "Antes de la respuesta a la apelación es importe referirnos al Art. 56 LOES (2010) que señala sobre la  paridad  de  género,  igualdad  de  oportunidades y equidad. - Cuando existan listas para la elección de rector o rectora, vicerrector o vicerrectora, vicerrectores o vicerrectoras, y demás autoridades académicas, deberán ser integradas respetando la alternancia, la paridad de género, igualdad de oportunidades y equidad conforme a la Constitución.",
+      "evaluated": "Si",
+      "assessment": "Cumplimiento insuficiente",
+      "fundamentalElement": [
+        {
+          "name": "Elemento Fundamental 20.1",
+          "id": "20.1",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, que garantizan la igualdad de oportunidades en el acceso, permanencia y titulación del estudiantado, en la selección y ejercicio de la docencia, investigación y vinculación del profesorado, y en la designación y contratación de empleados y trabajadores[87].",
+          "reference": "[87] Constitución Arts. 11 y 47; LOES 2010, Art. 71, Art. 6 Lit. c), Arts. 74, 91 y 92; RCE 2018, Art 46. Lit. a); Art 49.",
+          "assessment": "Cumplimiento insuficiente",
+          "components": [
+            {
+              "name": "Componente 20.1.1",
+              "id": "20.1.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, que garantizan la igualdad de oportunidades en el acceso, permanencia y titulación del estudiantado.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 20.1.2",
+              "id": "20.1.2",
+              "description": "Aplica aplica normativa y/o procedimientos, aprobados y vigentes, que garantizan la igualdad de oportunidades en la selección y ejercicio de la docencia, investigación y vinculación del profesorado.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 20.1.3",
+              "id": "20.1.3",
+              "description": "Aplica aplica normativa y/o procedimientos, aprobados y vigentes, que garantizan la igualdad de oportunidades en la designación y contratación de empleados y trabajadores.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 20.2",
+          "id": "20.2",
+          "description": "La institución cuenta con información desagregada que permite identificar características de identidad o condición socioeconómica de los miembros de la comunidad universitaria, susceptibles de generar discriminación, a partir de la cual realiza diagnósticos y toma medidas para garantizar la inclusión.",
+          "reference": "",
+          "assessment": "Aproximación al Cumplimiento",
+          "components": [
+            {
+              "name": "Componente 20.2.1",
+              "id": "20.2.1",
+              "description": "Cuenta con información desagregada que permite identificar características de identidad o condición socioeconómica de los miembros de la comunidad universitaria, susceptibles de generar discriminación.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 20.2.2",
+              "id": "20.2.2",
+              "description": "Realiza diagnósticos a partir de la información desagregada.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 20.2.3",
+              "id": "20.2.3",
+              "description": "Toma medidas a partir de la información desagregada para garantizar la inclusión.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 20.3",
+          "id": "20.3",
+          "description": "La institución cumple con los principios de paridad y alternancia de género en la elección de autoridades académicas, y con los de equidad de género en la designación de autoridades académicas y administrativas[88].",
+          "reference": "[88] Constitución Art. 61; LOES 2010 y 2018, Art. 56.89 LOES 2010 y 2018, Art. 75",
+          "assessment": "Incumplimiento",
+          "components": [
+            {
+              "name": "Componente 20.3.1",
+              "id": "20.3.1",
+              "description": "Cumple con los principios de paridad y alternancia de género en la elección de autoridades académicas.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 20.3.2",
+              "id": "20.3.2",
+              "description": "Cumple con los principios de equidad de género en la designación de autoridades académicas y administrativas.",
+              "fulfilled": "No"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 20.4",
+          "id": "20.4",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para promover y garantizar la participación equitativa de grupos históricamente excluidos, en todos los niveles e instancias, en particular las de cogobierno, [89] incluyendo medidas de acción afirmativa",
+          "reference": "[89] LOES 2010 y 2018, Art. 75",
+          "assessment": "Cumplimiento parcial",
+          "components": [
+            {
+              "name": "Componente 20.4.1",
+              "id": "20.4.1",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para promover y garantizar la participación equitativa de grupos históricamente excluidos, en todos los niveles e instancias.",
+              "fulfilled": "No"
+            },
+            {
+              "name": "Componente 20.4.2",
+              "id": "20.4.2",
+              "description": "Aplica normativa y/o procedimientos, aprobados y vigentes, para promover y garantizar la participación equitativa de grupos históricamente excluidos en las instancias de cogobierno, incluyendo medidas de acción afirmativa.",
+              "fulfilled": "Si"
+            }
+          ]
+        },
+        {
+          "name": "Elemento Fundamental 20.5",
+          "id": "20.5",
+          "description": "La institución aplica normativa y/o procedimientos, aprobados y vigentes, para la asignación de becas y ayudas económicas, acorde con la normativa de educación superior.[90]",
+          "reference": "90 LOES 2010, Art. 77.",
+          "assessment": "Cumplimiento satisfactorio",
+          "components": [
+            {
+              "name": "Componente 20.5.1",
+              "id": "20.5.1",
+              "description": "Aplica aplica normativa y/o procedimientos, aprobados y vigentes, para la asignación de becas y ayudas económicas.",
+              "fulfilled": "Si"
+            },
+            {
+              "name": "Componente 20.5.2",
+              "id": "20.5.2",
+              "description": "La asignación de becas y ayudas económicas esta acorde con la normativa de educación superior vigente.",
+              "fulfilled": "Si"
+            }
+          ]
+        }
+      ],
+      "InformationSources": [
+        {
+          "id": "1.",
+          "description": "Documentos de normativa y/o procedimientos que garantizan la igualdad de oportunidades a los grupos históricamente excluidos de la comunidad universitaria."
+        },
+        {
+          "id": "2.",
+          "description": "Informes y/o estudios que evidencien las características de identidad o condición de los miembros de la comunidad universitaria, susceptibles de generar discriminación."
+        },
+        {
+          "id": "3.",
+          "description": "Informe de las medidas implementadas por la institución para garantizar la inclusión y participación de los grupos históricamente excluidos de la comunidad universitaria91."
+        },
+        {
+          "id": "4.",
+          "description": "Estatuto y/o reglamento de elecciones de miembros del OCAS."
+        },
+        {
+          "id": "5.",
+          "description": "Nómina de autoridades académicas y administrativas electas y designadas92."
+        },
+        {
+          "id": "6.",
+          "description": "SIIES: Total de profesoras titulares, total de profesoras con dedicación a tiempo completo, total de profesoras con grado académico de PhD, total de coordinadoras de programas y/o proyectos de investigación, total de coordinadoras de programas y/o proyectos de vinculación con la sociedad; en todos los casos según facultad."
+        },
+        {
+          "id": "7.",
+          "description": "Documento de normativa y/o procedimientos del proceso de asignación de becas."
+        },
+        {
+          "id": "8.",
+          "description": "Listado de estudiantes beneficiarios de becas y ayudas económicas, estableciendo el monto y motivo de concesión."
+        },
+        {
+          "id": "9.",
+          "description": "Documento que evidencie el presupuesto ejecutado para becas y ayudas económicas."
+        },
+        {
+          "id": "10.",
+          "description": "Informes de la ejecución y seguimiento de los procesos de asignación de becas."
+        },
+        {
+          "id": "11.",
+          "description": "Entrevistas realizadas en la visita in situ."
+        }
+      ]
+    }
+  ]
