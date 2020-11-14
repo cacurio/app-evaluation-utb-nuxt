@@ -1,6 +1,7 @@
 [
     {
       "standardName": "Estandar 1",
+      "sku":"b9SuUOLAaj3YP0Kmqh9G",
       "id": "1",
       "type": "Sustantivo",
       "axis": "Docencia",
@@ -190,6 +191,7 @@
     },
     {
       "standardName": "Estandar 2",
+      "sku":"1",
       "id": 2,
       "type": "Sustantivo",
       "axis": "Docencia",
@@ -373,6 +375,7 @@
     },
     {
       "standardName": "Estandar 5",
+      "sku":"3",
       "id": 5,
       "type": "Sustantivo",
       "axis": "Docencia",
@@ -562,6 +565,7 @@
     },
     {
       "standardName": "Estandar 6",
+      "sku":"xslv7nXo742VSTMVuOnR",
       "id": "6",
       "type": "Sustantivo",
       "axis": "Docencia",
@@ -739,6 +743,7 @@
     },
     {
       "standardName": "Estandar 8",
+      "sku":"M0aCxpSzFl09A2f4XuOY",
       "id": "8",
       "type": "Sustantivo",
       "axis": "Investigación e Innovación",
@@ -942,6 +947,7 @@
     },
     {
       "standardName": "Estandar 9",
+      "sku":"ooOTnCTxO5yWxcwSFLW5",
       "id": "9",
       "type": "Sustantivo",
       "axis": "Investigación e Innovación",
@@ -1133,6 +1139,7 @@
     },
     {
       "standardName": "Estandar 10",
+      "sku":"M0aCxpSzFl09A2f4XuOY",
       "id": "10",
       "type": "Sustantivo",
       "axis": "Investigación e Innovación",
@@ -1271,6 +1278,7 @@
     },
     {
       "standardName": "Estandar 12",
+      "sku":"dhLNlgVKL11XEIwG4qca",
       "id": "12",
       "type": "Sustantivo",
       "axis": "Vinculación con la Sociedad",
@@ -1468,6 +1476,7 @@
     },
     {
       "standardName": "Estandar 13",
+      "sku":"kNc6d54ZquYAusCzXkvv",
       "id": "13",
       "type": "Sustantivo",
       "axis": "Vinculación con la Sociedad",
@@ -1665,6 +1674,7 @@
     },
     {
       "standardName": "Estandar 14",
+      "sku":"ASPFEDrplVqgCKxyLXF9",
       "id": "14",
       "type": "Sustantivo",
       "axis": "Vinculación con la Sociedad",
@@ -1808,6 +1818,7 @@
     },
     {
       "standardName": "Estandar 15",
+      "sku":"lRBz8verqpqTe0XeHP3F",
       "id": "15",
       "type": "Sustantivo",
       "axis": "Condiciones Institucionales",
@@ -1995,6 +2006,7 @@
     },
     {
       "standardName": "Estandar 16",
+      "sku":"Y6clQCus1FQjxXEiVaur",
       "id": "16",
       "type": "Sustantivo",
       "axis": "Condiciones Institucionales",
@@ -2154,6 +2166,7 @@
     },
     {
       "standardName": "Estandar 17",
+      "sku":"VR4icOq66JRk9BJNiRJ2",
       "id": "17",
       "type": "Sustantivo",
       "axis": "Condiciones Institucionales",
@@ -2323,6 +2336,7 @@
     },
     {
       "standardName": "Estandar 18",
+      "sk":"oEIw1I227tsXaDCQTv9l",
       "id": "18",
       "type": "Sustantivo",
       "axis": "Condiciones Institucionales",
@@ -2502,6 +2516,7 @@
     },
     {
       "standardName": "Estandar 19",
+      "sku":"19",
       "id": "19",
       "type": "Sustantivo",
       "axis": "Condiciones Institucionales",
@@ -2699,6 +2714,7 @@
     },
     {
       "standardName": "Estandar 20",
+      "sku":"gUGJdyqZWivxJvMZ84Fn",
       "id": "20",
       "type": "Sustantivo",
       "axis": "Docencia",
